@@ -1,0 +1,40 @@
+*item
+*name	Tianjin Tianjin CHN
+*aide	Tianjin Tianjin CHN was sourced from DoE
+*dbfl	
+*avail	OFFLINE
+*winter_s  1  1 25  2 19 11 31 12
+*spring_s 26  2 13  5 17  9 18 11
+*summer_s 14  5 16  9
+*winter_t 22  1 28  1 24 12 30 12
+*spring_t 23  4 29  4  8 10 14 10
+*summer_t 11  6 17  6
+*help_start
+Climate is Tianjin Tianjin CHN
+ Location: 39.08N  2.93W : 2001
+ Month    Minimum  Time          Maximum  Time         Mean
+ Jan    -11.6 @ 7h00 Thu-18        8.1 @15h00 Sun-07    -2.4
+ Feb    -13.9 @ 6h00 Wed-07       12.8 @15h00 Wed-21    -1.6
+ Mar     -5.1 @ 6h00 Sat-17       22.2 @15h00 Tue-20     6.8
+ Apr      4.4 @ 5h00 Tue-03       30.9 @15h00 Tue-17    14.4
+ May      9.4 @ 5h00 Wed-02       33.1 @15h00 Wed-30    20.7
+ Jun     14.9 @ 4h00 Wed-13       36.9 @15h00 Wed-20    24.2
+ Jul     19.5 @ 4h00 Fri-13       35.6 @15h00 Sat-28    26.1
+ Aug     15.5 @ 5h00 Fri-31       35.0 @14h00 Thu-02    25.5
+ Sep     11.4 @ 5h00 Fri-21       34.9 @15h00 Sat-01    20.7
+ Oct      1.4 @19h00 Wed-31       25.1 @15h00 Fri-12    14.3
+ Nov     -7.0 @ 7h00 Sun-18       21.7 @15h00 Sat-03     5.3
+ Dec    -10.9 @ 7h00 Fri-21       11.6 @14h00 Sun-09    -0.6
+ Annual -13.9 @ 6h00 Wed-07-Feb   36.9 @15h00 Wed-20-Jun    12.9
+ ---Seasons & typical periods---
+Winter season is Mon-01-Jan - Sun-25-Feb
+Typical winter week begins Mon-22-Jan
+Spring season is Mon-26-Feb - Sun-13-May
+Typical spring week begins Mon-23-Apr
+Summer season is Mon-14-May - Sun-16-Sep
+Typical summer week begins Mon-11-Jun
+Autumn season is Mon-17-Sep - Sun-18-Nov
+Typical autumn week begins Mon-08-Oct
+Winter season is Mon-19-Nov - Mon-31-Dec
+Typical winter week begins Mon-24-Dec
+*help_end

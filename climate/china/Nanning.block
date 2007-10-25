@@ -1,0 +1,40 @@
+*item
+*name	Nanning Guangxi Zhuang CHN
+*aide	Nanning Guangxi Zhuang CHN  was sourced from DoE
+*dbfl	
+*avail	OFFLINE
+*winter_s  1  1 18  2  3 12 31 12
+*spring_s 19  2 22  4 24  9  2 12
+*summer_s 23  4 23  9
+*winter_t  1  1  7  1 17 12 23 12
+*spring_t 12  3 18  3 15 10 21 10
+*summer_t  7  5 13  5
+*help_start
+Climate is Nanning Guangxi Zhuang CHN
+ Location: 22.63N 11.78W : 2001
+ Month    Minimum  Time          Maximum  Time         Mean
+ Jan      3.2 @ 7h00 Fri-05       25.5 @15h00 Thu-25    13.9
+ Feb      6.8 @ 6h00 Mon-19       28.1 @15h00 Mon-26    14.4
+ Mar      7.1 @ 4h00 Thu-01       31.0 @15h00 Fri-23    18.2
+ Apr     16.7 @ 5h00 Sat-07       34.5 @15h00 Wed-25    22.7
+ May     19.7 @ 5h00 Thu-24       33.2 @15h00 Sat-12    26.2
+ Jun     21.0 @11h00 Sun-10       35.6 @15h00 Fri-08    28.1
+ Jul     23.5 @ 5h00 Tue-10       36.0 @15h00 Thu-12    27.9
+ Aug     23.3 @ 6h00 Wed-29       36.3 @15h00 Sat-04    28.1
+ Sep     20.0 @ 6h00 Sat-22       35.2 @15h00 Thu-06    27.3
+ Oct     12.0 @ 6h00 Fri-19       33.6 @15h00 Sat-13    23.4
+ Nov      9.6 @ 7h00 Thu-29       28.7 @15h00 Wed-14    18.7
+ Dec      4.5 @ 7h00 Mon-31       25.1 @15h00 Fri-14    14.9
+ Annual   3.2 @ 7h00 Fri-05-Jan   36.3 @15h00 Sat-04-Aug    22.0
+ ---Seasons & typical periods---
+Winter season is Mon-01-Jan - Sun-18-Feb
+Typical winter week begins Mon-01-Jan
+Spring season is Mon-19-Feb - Sun-22-Apr
+Typical spring week begins Mon-12-Mar
+Summer season is Mon-23-Apr - Sun-23-Sep
+Typical summer week begins Mon-07-May
+Autumn season is Mon-24-Sep - Sun-02-Dec
+Typical autumn week begins Mon-15-Oct
+Winter season is Mon-03-Dec - Mon-31-Dec
+Typical winter week begins Mon-17-Dec
+*help_end

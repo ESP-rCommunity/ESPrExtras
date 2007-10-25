@@ -1,0 +1,40 @@
+*item
+*name	Hangzhou Zhejiang CHN
+*aide	Hangzhou Zhejiang CHN sourced from DoE
+*dbfl	
+*avail	OFFLINE
+*winter_s  1  1 18  2 19 11 31 12
+*spring_s 19  2 29  4 24  9 18 11
+*summer_s 30  4 23  9
+*winter_t  5  2 11  2 24 12 30 12
+*spring_t  2  4  8  4 29 10  4 11
+*summer_t  3  9  9  9
+*help_start
+Climate is Hangzhou Zhejiang CHN
+ Location: 30.23N  0.17E : 2001
+ Month    Minimum  Time          Maximum  Time         Mean
+ Jan     -1.8 @ 8h00 Mon-01       15.7 @15h00 Tue-16     5.2
+ Feb     -1.4 @ 8h00 Mon-12       21.9 @13h00 Sun-25     6.6
+ Mar      0.2 @ 3h00 Sun-04       29.7 @16h00 Sat-31    10.8
+ Apr      8.0 @ 6h00 Fri-06       32.1 @16h00 Sun-29    16.3
+ May     11.4 @ 6h00 Tue-01       32.2 @15h00 Sun-06    21.2
+ Jun     17.6 @19h00 Sat-16       37.0 @16h00 Fri-29    24.9
+ Jul     20.4 @ 3h00 Sun-01       36.0 @16h00 Wed-18    27.6
+ Aug     23.3 @10h00 Mon-20       36.0 @15h00 Mon-06    28.2
+ Sep     18.2 @ 7h00 Sun-23       30.8 @16h00 Wed-12    24.1
+ Oct      9.7 @ 7h00 Sat-27       31.6 @15h00 Wed-31    19.2
+ Nov      0.3 @ 6h00 Sun-18       25.2 @16h00 Sat-10    12.7
+ Dec     -2.4 @ 8h00 Thu-20       17.7 @16h00 Mon-24     6.5
+ Annual  -2.4 @ 8h00 Thu-20-Dec   37.0 @16h00 Fri-29-Jun    17.0
+ ---Seasons & typical periods---
+Winter season is Mon-01-Jan - Sun-18-Feb
+Typical winter week begins Mon-05-Feb
+Spring season is Mon-19-Feb - Sun-29-Apr
+Typical spring week begins Mon-02-Apr
+Summer season is Mon-30-Apr - Sun-23-Sep
+Typical summer week begins Mon-03-Sep
+Autumn season is Mon-24-Sep - Sun-18-Nov
+Typical autumn week begins Mon-29-Oct
+Winter season is Mon-19-Nov - Mon-31-Dec
+Typical winter week begins Mon-24-Dec
+*help_end

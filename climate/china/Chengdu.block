@@ -1,0 +1,40 @@
+*item
+*name	Chengdu Sichuan CHN
+*aide	Chengdu Sichuan CHN sourced from DoE
+*dbfl	
+*avail	OFFLINE
+*winter_s  1  1 18  2  3 12 31 12
+*spring_s 19  2 29  4  3  9  2 12
+*summer_s 30  4  2  9
+*winter_t 15  1 21  1 10 12 16 12
+*spring_t 23  4 29  4  8 10 14 10
+*summer_t 28  5  3  6
+*help_start
+Climate is Chengdu Sichuan CHN
+ Location: 55.90N  4.15W : 2001
+ Month    Minimum  Time          Maximum  Time         Mean
+ Jan     -0.9 @ 7h00 Fri-05       14.7 @15h00 Mon-08     5.8
+ Feb      2.9 @ 7h00 Thu-08       16.9 @15h00 Tue-20     8.2
+ Mar      5.9 @ 6h00 Sun-11       27.8 @16h00 Sat-31    12.8
+ Apr      7.7 @ 6h00 Tue-10       28.0 @15h00 Mon-30    16.1
+ May     13.6 @ 6h00 Sun-06       31.2 @16h00 Wed-30    21.2
+ Jun     16.1 @ 5h00 Sun-03       34.8 @15h00 Thu-14    23.8
+ Jul     20.3 @ 5h00 Fri-13       34.8 @16h00 Sun-22    25.8
+ Aug     18.5 @ 6h00 Sun-12       33.7 @16h00 Wed-01    25.1
+ Sep     15.6 @ 6h00 Fri-28       31.6 @15h00 Thu-13    21.5
+ Oct     10.9 @ 7h00 Mon-29       27.0 @15h00 Sun-14    17.9
+ Nov      6.6 @ 7h00 Thu-15       21.3 @15h00 Tue-13    13.6
+ Dec     -0.2 @ 7h00 Thu-13       14.1 @15h00 Wed-12     7.1
+ Annual  -0.9 @ 7h00 Fri-05-Jan   34.8 @15h00 Thu-14-Jun    16.6
+ ---Seasons & typical periods---
+Winter season is Mon-01-Jan - Sun-18-Feb
+Typical winter week begins Mon-15-Jan
+Spring season is Mon-19-Feb - Sun-29-Apr
+Typical spring week begins Mon-23-Apr
+Summer season is Mon-30-Apr - Sun-02-Sep
+Typical summer week begins Mon-28-May
+Autumn season is Mon-03-Sep - Sun-02-Dec
+Typical autumn week begins Mon-08-Oct
+Winter season is Mon-03-Dec - Mon-31-Dec
+Typical winter week begins Mon-10-Dec
+*help_end

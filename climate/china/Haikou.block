@@ -1,0 +1,40 @@
+*item
+*name	Haikou Hainan CHN
+*aide	Haikou Hainan CHN source from DoE
+*dbfl	
+*avail	OFFLINE
+*winter_s  1  1 25  2 19 11 31 12
+*spring_s 26  2 25  3  1 10 18 11
+*summer_s 26  3 30  9
+*winter_t  5  2 11  2  3 12  9 12
+*spring_t  5  3 11  3 29 10  4 11
+*summer_t  3  9  9  9
+*help_start
+Climate is Haikou Hainan CHN
+ Location: 20.03N  9.65W : 2001
+ Month    Minimum  Time          Maximum  Time         Mean
+ Jan     10.0 @ 4h00 Sat-06       27.6 @15h00 Mon-22    18.0
+ Feb     13.2 @ 7h00 Sat-10       29.4 @14h00 Fri-23    19.0
+ Mar     14.0 @ 1h00 Mon-05       33.4 @15h00 Fri-16    21.4
+ Apr     20.8 @ 2h00 Tue-24       33.1 @17h00 Tue-03    25.2
+ May     21.9 @ 7h00 Sun-06       34.9 @16h00 Sat-12    27.5
+ Jun     23.4 @18h00 Thu-07       35.0 @16h00 Tue-19    28.7
+ Jul     24.1 @ 7h00 Sun-29       36.4 @16h00 Mon-23    28.9
+ Aug     23.0 @ 7h00 Mon-20       33.5 @16h00 Sun-26    28.4
+ Sep     23.5 @13h00 Sat-01       33.2 @14h00 Thu-20    27.2
+ Oct     19.1 @ 4h00 Tue-09       33.2 @16h00 Sat-20    26.0
+ Nov     13.1 @ 6h00 Sun-25       28.7 @12h00 Tue-13    22.1
+ Dec     13.0 @ 7h00 Wed-26       27.1 @16h00 Tue-04    19.5
+ Annual  10.0 @ 4h00 Sat-06-Jan   36.4 @16h00 Mon-23-Jul    24.3
+ ---Seasons & typical periods---
+Winter season is Mon-01-Jan - Sun-25-Feb
+Typical winter week begins Mon-05-Feb
+Spring season is Mon-26-Feb - Sun-25-Mar
+Typical spring week begins Mon-05-Mar
+Summer season is Mon-26-Mar - Sun-30-Sep
+Typical summer week begins Mon-03-Sep
+Autumn season is Mon-01-Oct - Sun-18-Nov
+Typical autumn week begins Mon-29-Oct
+Winter season is Mon-19-Nov - Mon-31-Dec
+Typical winter week begins Mon-03-Dec
+*help_end

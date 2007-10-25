@@ -1,0 +1,1285 @@
+*CLIMATE_LIST
+*group	ESRU climates for China
+# WARNING: Keep this file up to date with current directory structure !
+*item
+*name	Beijing CHN
+*aide	Beijing CHN sourced from DoE
+*dbfl	/usr/esru/esp-r/climate/Beijing
+*avail	ONLINE
+*winter_s  1  1 25  2 19 11 31 12
+*spring_s 26  2  6  5 17  9 18 11
+*summer_s  7  5 16  9
+*winter_t 15  1 21  1  3 12  9 12
+*spring_t  9  4 15  4 22 10 28 10
+*summer_t  3  9  9  9
+*help_start
+Climate is BEIJING - CHN
+ Location: 39.80N  3.53W : 2001
+ Month    Minimum  Time          Maximum  Time         Mean
+ Jan    -14.0 @ 1h00 Wed-24        5.8 @14h00 Fri-19    -2.9
+ Feb    -12.0 @ 6h00 Thu-22        9.0 @15h00 Mon-05     0.0
+ Mar     -3.0 @ 7h00 Sun-11       16.0 @16h00 Sat-03     6.1
+ Apr      2.0 @ 6h00 Mon-02       27.0 @15h00 Sun-29    14.3
+ May      8.3 @ 5h00 Fri-04       34.0 @15h00 Sun-27    20.4
+ Jun     17.7 @ 5h00 Tue-05       37.4 @14h00 Sat-02    25.2
+ Jul     19.9 @ 5h00 Thu-19       35.0 @16h00 Sat-07    26.4
+ Aug     18.0 @ 5h00 Sat-18       33.4 @14h00 Fri-03    25.0
+ Sep     11.0 @ 5h00 Thu-20       31.0 @15h00 Sat-22    20.4
+ Oct      1.0 @ 6h00 Mon-29       26.0 @13h00 Mon-01    13.7
+ Nov     -6.3 @ 8h00 Mon-19       20.0 @13h00 Sat-03     4.8
+ Dec     -9.0 @ 6h00 Fri-14       10.5 @14h00 Fri-07    -0.5
+ Annual -14.0 @ 1h00 Wed-24-Jan   37.4 @14h00 Sat-02-Jun    12.8
+ ---Seasons & typical periods---
+Winter season is Mon-01-Jan - Sun-25-Feb
+Typical winter week begins Mon-15-Jan
+Spring season is Mon-26-Feb - Sun-06-May
+Typical spring week begins Mon-09-Apr
+Summer season is Mon-07-May - Sun-16-Sep
+Typical summer week begins Mon-03-Sep
+Autumn season is Mon-17-Sep - Sun-18-Nov
+Typical autumn week begins Mon-22-Oct
+Winter season is Mon-19-Nov - Mon-31-Dec
+Typical winter week begins Mon-03-Dec
+*help_end
+*item
+*name	Changchun Jilin CHN
+*aide	Changchun Jilin CHN sourced from DoE
+*dbfl	/usr/esru/es-r/climate/Changchun
+*avail	ONLINE
+*winter_s  1  1 18  2 19 11 31 12
+*spring_s 19  2 29  4 24  9 18 11
+*summer_s 30  4 23  9
+*winter_t 29  1  4  2 24 12 30 12
+*spring_t 26  3  1  4 22 10 28 10
+*summer_t 21  5 27  5
+*help_start
+Climate is Changchun Jilin CHN
+ Location: 43.90N  5.22E : 2001
+ Month    Minimum  Time          Maximum  Time         Mean
+ Jan    -28.1 @ 8h00 Sun-21       -0.4 @ 4h00 Sat-13   -15.4
+ Feb    -21.2 @ 8h00 Thu-01        7.0 @15h00 Mon-12    -9.5
+ Mar    -15.4 @ 7h00 Sat-10       17.6 @16h00 Sat-31    -3.3
+ Apr     -8.0 @ 7h00 Sun-08       25.0 @16h00 Mon-30     7.3
+ May      1.1 @ 4h00 Fri-18       27.5 @16h00 Wed-23    15.1
+ Jun      7.8 @ 4h00 Mon-04       34.4 @16h00 Sat-30    20.2
+ Jul     15.0 @ 5h00 Tue-10       31.7 @17h00 Sun-01    22.9
+ Aug     12.8 @ 6h00 Sun-19       31.7 @16h00 Fri-31    21.3
+ Sep      3.4 @ 4h00 Fri-14       27.5 @13h00 Sat-01    15.2
+ Oct     -3.9 @ 7h00 Mon-29       20.4 @15h00 Mon-01     7.6
+ Nov    -20.4 @21h00 Fri-30       10.3 @14h00 Sat-03    -5.0
+ Dec    -23.1 @ 9h00 Sat-15        2.9 @13h00 Sat-08   -11.6
+ Annual -28.1 @ 8h00 Sun-21-Jan   34.4 @16h00 Sat-30-Jun     5.5
+ ---Seasons & typical periods---
+Winter season is Mon-01-Jan - Sun-18-Feb
+Typical winter week begins Mon-29-Jan
+Spring season is Mon-19-Feb - Sun-29-Apr
+Typical spring week begins Mon-26-Mar
+Summer season is Mon-30-Apr - Sun-23-Sep
+Typical summer week begins Mon-21-May
+Autumn season is Mon-24-Sep - Sun-18-Nov
+Typical autumn week begins Mon-22-Oct
+Winter season is Mon-19-Nov - Mon-31-Dec
+Typical winter week begins Mon-24-Dec
+*help_end
+*item
+*name	Chengdu Sichuan CHN
+*aide	Chengdu Sichuan CHN sourced from DoE
+*dbfl	/usr/esru/es-r/climate/Chengdu
+*avail	ONLINE
+*winter_s  1  1 18  2  3 12 31 12
+*spring_s 19  2 29  4  3  9  2 12
+*summer_s 30  4  2  9
+*winter_t 15  1 21  1 10 12 16 12
+*spring_t 23  4 29  4  8 10 14 10
+*summer_t 28  5  3  6
+*help_start
+Climate is Chengdu Sichuan CHN
+ Location: 55.90N  4.15W : 2001
+ Month    Minimum  Time          Maximum  Time         Mean
+ Jan     -0.9 @ 7h00 Fri-05       14.7 @15h00 Mon-08     5.8
+ Feb      2.9 @ 7h00 Thu-08       16.9 @15h00 Tue-20     8.2
+ Mar      5.9 @ 6h00 Sun-11       27.8 @16h00 Sat-31    12.8
+ Apr      7.7 @ 6h00 Tue-10       28.0 @15h00 Mon-30    16.1
+ May     13.6 @ 6h00 Sun-06       31.2 @16h00 Wed-30    21.2
+ Jun     16.1 @ 5h00 Sun-03       34.8 @15h00 Thu-14    23.8
+ Jul     20.3 @ 5h00 Fri-13       34.8 @16h00 Sun-22    25.8
+ Aug     18.5 @ 6h00 Sun-12       33.7 @16h00 Wed-01    25.1
+ Sep     15.6 @ 6h00 Fri-28       31.6 @15h00 Thu-13    21.5
+ Oct     10.9 @ 7h00 Mon-29       27.0 @15h00 Sun-14    17.9
+ Nov      6.6 @ 7h00 Thu-15       21.3 @15h00 Tue-13    13.6
+ Dec     -0.2 @ 7h00 Thu-13       14.1 @15h00 Wed-12     7.1
+ Annual  -0.9 @ 7h00 Fri-05-Jan   34.8 @15h00 Thu-14-Jun    16.6
+ ---Seasons & typical periods---
+Winter season is Mon-01-Jan - Sun-18-Feb
+Typical winter week begins Mon-15-Jan
+Spring season is Mon-19-Feb - Sun-29-Apr
+Typical spring week begins Mon-23-Apr
+Summer season is Mon-30-Apr - Sun-02-Sep
+Typical summer week begins Mon-28-May
+Autumn season is Mon-03-Sep - Sun-02-Dec
+Typical autumn week begins Mon-08-Oct
+Winter season is Mon-03-Dec - Mon-31-Dec
+Typical winter week begins Mon-10-Dec
+*help_end
+*item
+*name	Chongqing Chongqing CHN
+*aide	Chongqing Chongqing CHN source from DoE
+*dbfl	/usr/esru/es-r/climate/Chongqing
+*avail	ONLINE
+*winter_s  1  1 18  2  3 12 31 12
+*spring_s 19  2 15  4 10  9  2 12
+*summer_s 16  4  9  9
+*winter_t 29  1  4  2 17 12 23 12
+*spring_t  5  3 11  3  1 10  7 10
+*summer_t 28  5  3  6
+*help_start
+Climate is Chongqing Chongqing CHN
+ Location: 29.52N 13.52W : 2001
+ Month    Minimum  Time          Maximum  Time         Mean
+ Jan      2.5 @ 9h00 Sun-28       15.2 @16h00 Tue-02     8.3
+ Feb      4.3 @ 4h00 Wed-07       19.5 @16h00 Mon-12    10.2
+ Mar      4.3 @ 8h00 Wed-21       26.8 @16h00 Fri-30    13.3
+ Apr     12.1 @ 8h00 Wed-11       31.4 @16h00 Mon-30    18.0
+ May     15.1 @ 4h00 Tue-15       35.1 @15h00 Sat-12    23.1
+ Jun     19.2 @ 6h00 Mon-04       36.6 @14h00 Sun-24    25.3
+ Jul     22.3 @21h00 Fri-13       36.2 @16h00 Sat-28    28.1
+ Aug     21.3 @ 7h00 Sun-12       38.4 @16h00 Fri-31    28.8
+ Sep     15.9 @ 6h00 Fri-28       35.4 @17h00 Sun-02    23.7
+ Oct     12.5 @21h00 Fri-05       27.4 @15h00 Sun-21    18.3
+ Nov      4.6 @ 4h00 Fri-30       21.1 @15h00 Mon-26    13.9
+ Dec      2.6 @ 6h00 Sat-29       14.6 @15h00 Sat-08     9.1
+ Annual   2.5 @ 9h00 Sun-28-Jan   38.4 @16h00 Fri-31-Aug    18.4
+ ---Seasons & typical periods---
+Winter season is Mon-01-Jan - Sun-18-Feb
+Typical winter week begins Mon-29-Jan
+Spring season is Mon-19-Feb - Sun-15-Apr
+Typical spring week begins Mon-05-Mar
+Summer season is Mon-16-Apr - Sun-09-Sep
+Typical summer week begins Mon-28-May
+Autumn season is Mon-10-Sep - Sun-02-Dec
+Typical autumn week begins Mon-01-Oct
+Winter season is Mon-03-Dec - Mon-31-Dec
+Typical winter week begins Mon-17-Dec
+*help_end
+*item
+*name	Fuzhou Fujian CHN
+*aide	Fuzhou Fujian CHN sourced from DoE
+*dbfl	/usr/esru/es-r/climate/Fuzhou
+*avail	ONLINE
+*winter_s  1  1 11  2 10 12 31 12
+*spring_s 12  2 22  4  8 10  9 12
+*summer_s 23  4  7 10
+*winter_t  8  1 14  1 17 12 23 12
+*spring_t 26  2  4  3 19 11 25 11
+*summer_t 18  6 24  6
+*help_start
+Climate is Fuzhou Fujian CHN
+ Location: 26.08N  0.72W : 2001
+ Month    Minimum  Time          Maximum  Time         Mean
+ Jan      4.6 @ 8h00 Mon-01       23.2 @14h00 Sun-07    11.4
+ Feb      6.0 @ 7h00 Mon-19       27.0 @15h00 Sun-25    11.7
+ Mar      7.4 @ 8h00 Thu-22       27.7 @15h00 Fri-30    13.9
+ Apr     10.9 @ 7h00 Thu-12       33.8 @16h00 Sun-29    18.3
+ May     14.4 @ 7h00 Tue-01       33.5 @15h00 Mon-07    23.2
+ Jun     16.6 @ 6h00 Thu-14       38.0 @15h00 Sun-03    26.3
+ Jul     24.4 @ 3h00 Wed-11       37.2 @15h00 Sun-01    29.0
+ Aug     23.2 @23h00 Fri-31       37.3 @16h00 Wed-22    28.8
+ Sep     20.4 @ 7h00 Sun-23       32.6 @16h00 Sat-15    26.1
+ Oct     16.0 @ 6h00 Sun-28       33.1 @15h00 Wed-31    22.8
+ Nov      8.4 @ 6h00 Thu-29       27.2 @16h00 Thu-22    18.2
+ Dec      3.8 @ 8h00 Mon-24       26.4 @17h00 Mon-03    13.6
+ Annual   3.8 @ 8h00 Mon-24-Dec   38.0 @15h00 Sun-03-Jun    20.3
+ ---Seasons & typical periods---
+Winter season is Mon-01-Jan - Sun-11-Feb
+Typical winter week begins Mon-08-Jan
+Spring season is Mon-12-Feb - Sun-22-Apr
+Typical spring week begins Mon-26-Feb
+Summer season is Mon-23-Apr - Sun-07-Oct
+Typical summer week begins Mon-18-Jun
+Autumn season is Mon-08-Oct - Sun-09-Dec
+Typical autumn week begins Mon-19-Nov
+Winter season is Mon-10-Dec - Mon-31-Dec
+Typical winter week begins Mon-17-Dec
+*help_end
+*item
+*name	Guangzhou CHN
+*aide	Guangzho CHN sourced from DoE
+*dbfl	/usr/esru/es-r/climate/Guangzhou
+*avail	ONLINE
+*winter_s  1  1 18  3 24 11 31 12
+*spring_s 19  3 15  4  1 10 23 11
+*summer_s 16  4 30  9
+*winter_t 29  1  4  2 15 12 21 12
+*spring_t 26  3  1  4 29 10  4 11
+*summer_t 25  6  1  7
+*help_start
+Climate is GUANGZHOU - CHN
+ Location: 23.13N  6.68W : 2001
+ Month    Minimum  Time          Maximum  Time         Mean
+ Jan      6.0 @ 6h00 Sat-06       24.0 @15h00 Sun-21    14.1
+ Feb      6.5 @ 5h00 Sat-17       24.6 @17h00 Tue-20    14.2
+ Mar      7.5 @ 5h00 Sat-10       29.0 @16h00 Sat-31    17.1
+ Apr     14.0 @ 6h00 Sat-14       32.0 @15h00 Thu-19    22.2
+ May     16.2 @ 6h00 Tue-01       34.0 @16h00 Thu-31    25.4
+ Jun     21.0 @ 1h00 Sat-09       35.2 @17h00 Tue-05    27.9
+ Jul     24.9 @20h00 Fri-13       36.0 @12h00 Thu-19    28.9
+ Aug     24.0 @ 3h00 Fri-03       37.0 @16h00 Wed-29    28.6
+ Sep     21.0 @ 6h00 Fri-28       36.0 @16h00 Tue-11    27.6
+ Oct     12.9 @ 2h00 Wed-31       32.1 @14h00 Tue-16    24.4
+ Nov      9.0 @ 6h00 Thu-29       30.3 @14h00 Thu-08    20.1
+ Dec      8.0 @ 7h00 Sat-22       25.0 @16h00 Sun-16    16.0
+ Annual   6.0 @ 6h00 Sat-06-Jan   37.0 @16h00 Wed-29-Aug    22.3
+ ---Seasons & typical periods---
+Winter season is Mon-01-Jan - Sun-18-Mar
+Typical winter week begins Mon-29-Jan
+Spring season is Mon-19-Mar - Sun-15-Apr
+Typical spring week begins Mon-26-Mar
+Summer season is Mon-16-Apr - Sun-30-Sep
+Typical summer week begins Mon-25-Jun
+Autumn season is Mon-01-Oct - Fri-23-Nov
+Typical autumn week begins Mon-29-Oct
+Winter season is Sat-24-Nov - Mon-31-Dec
+Typical winter week begins Sat-15-Dec
+*help_end
+*item
+*name	Guiyang Guizhou CHN
+*aide	Guiyang Guizhou CHN sourced from DoE
+*dbfl	/usr/esru/es-r/climate/Guiyang
+*avail	ONLINE
+*winter_s  1  1 25  2 19 11 31 12
+*spring_s 26  2  8  4 17  9 18 11
+*summer_s  9  4 16  9
+*winter_t 29  1  4  2  3 12  9 12
+*spring_t 26  3  1  4  5 11 11 11
+*summer_t  7  5 13  5
+*help_start
+Climate is Guiyang Guizhou CHN
+ Location: 26.58N 13.27W : 2001
+ Month    Minimum  Time          Maximum  Time         Mean
+ Jan     -2.0 @10h00 Fri-12       18.5 @18h00 Mon-22     5.7
+ Feb      0.2 @24h00 Sun-25       25.7 @16h00 Fri-23     7.1
+ Mar      0.6 @ 1h00 Thu-01       25.8 @17h00 Sat-17    11.4
+ Apr      5.6 @ 5h00 Wed-04       32.4 @16h00 Sun-22    16.2
+ May     11.1 @ 7h00 Tue-22       28.7 @17h00 Wed-30    19.5
+ Jun     16.6 @ 7h00 Mon-11       30.8 @18h00 Tue-05    22.6
+ Jul     17.6 @24h00 Mon-02       33.5 @17h00 Tue-31    24.0
+ Aug     17.2 @ 8h00 Thu-23       31.8 @18h00 Wed-08    23.1
+ Sep     13.0 @ 8h00 Fri-21       32.3 @17h00 Thu-06    20.8
+ Oct      7.3 @ 5h00 Mon-29       27.1 @16h00 Tue-23    16.2
+ Nov      4.7 @ 4h00 Sat-17       24.4 @15h00 Sun-11    12.3
+ Dec     -0.2 @ 9h00 Sat-22       19.4 @16h00 Sun-09     6.9
+ Annual  -2.0 @10h00 Fri-12-Jan   33.5 @17h00 Tue-31-Jul    15.5
+ ---Seasons & typical periods---
+Winter season is Mon-01-Jan - Sun-25-Feb
+Typical winter week begins Mon-29-Jan
+Spring season is Mon-26-Feb - Sun-08-Apr
+Typical spring week begins Mon-26-Mar
+Summer season is Mon-09-Apr - Sun-16-Sep
+Typical summer week begins Mon-07-May
+Autumn season is Mon-17-Sep - Sun-18-Nov
+Typical autumn week begins Mon-05-Nov
+Winter season is Mon-19-Nov - Mon-31-Dec
+Typical winter week begins Mon-03-Dec
+*help_end
+*item
+*name	Haikou Hainan CHN
+*aide	Haikou Hainan CHN source from DoE
+*dbfl	/usr/esru/es-r/climate/Haikou
+*avail	ONLINE
+*winter_s  1  1 25  2 19 11 31 12
+*spring_s 26  2 25  3  1 10 18 11
+*summer_s 26  3 30  9
+*winter_t  5  2 11  2  3 12  9 12
+*spring_t  5  3 11  3 29 10  4 11
+*summer_t  3  9  9  9
+*help_start
+Climate is Haikou Hainan CHN
+ Location: 20.03N  9.65W : 2001
+ Month    Minimum  Time          Maximum  Time         Mean
+ Jan     10.0 @ 4h00 Sat-06       27.6 @15h00 Mon-22    18.0
+ Feb     13.2 @ 7h00 Sat-10       29.4 @14h00 Fri-23    19.0
+ Mar     14.0 @ 1h00 Mon-05       33.4 @15h00 Fri-16    21.4
+ Apr     20.8 @ 2h00 Tue-24       33.1 @17h00 Tue-03    25.2
+ May     21.9 @ 7h00 Sun-06       34.9 @16h00 Sat-12    27.5
+ Jun     23.4 @18h00 Thu-07       35.0 @16h00 Tue-19    28.7
+ Jul     24.1 @ 7h00 Sun-29       36.4 @16h00 Mon-23    28.9
+ Aug     23.0 @ 7h00 Mon-20       33.5 @16h00 Sun-26    28.4
+ Sep     23.5 @13h00 Sat-01       33.2 @14h00 Thu-20    27.2
+ Oct     19.1 @ 4h00 Tue-09       33.2 @16h00 Sat-20    26.0
+ Nov     13.1 @ 6h00 Sun-25       28.7 @12h00 Tue-13    22.1
+ Dec     13.0 @ 7h00 Wed-26       27.1 @16h00 Tue-04    19.5
+ Annual  10.0 @ 4h00 Sat-06-Jan   36.4 @16h00 Mon-23-Jul    24.3
+ ---Seasons & typical periods---
+Winter season is Mon-01-Jan - Sun-25-Feb
+Typical winter week begins Mon-05-Feb
+Spring season is Mon-26-Feb - Sun-25-Mar
+Typical spring week begins Mon-05-Mar
+Summer season is Mon-26-Mar - Sun-30-Sep
+Typical summer week begins Mon-03-Sep
+Autumn season is Mon-01-Oct - Sun-18-Nov
+Typical autumn week begins Mon-29-Oct
+Winter season is Mon-19-Nov - Mon-31-Dec
+Typical winter week begins Mon-03-Dec
+*help_end
+*item
+*name	Hangzhou Zhejiang CHN
+*aide	Hangzhou Zhejiang CHN sourced from DoE
+*dbfl	/usr/esru/es-r/climate/Hangzhou
+*avail	ONLINE
+*winter_s  1  1 18  2 19 11 31 12
+*spring_s 19  2 29  4 24  9 18 11
+*summer_s 30  4 23  9
+*winter_t  5  2 11  2 24 12 30 12
+*spring_t  2  4  8  4 29 10  4 11
+*summer_t  3  9  9  9
+*help_start
+Climate is Hangzhou Zhejiang CHN
+ Location: 30.23N  0.17E : 2001
+ Month    Minimum  Time          Maximum  Time         Mean
+ Jan     -1.8 @ 8h00 Mon-01       15.7 @15h00 Tue-16     5.2
+ Feb     -1.4 @ 8h00 Mon-12       21.9 @13h00 Sun-25     6.6
+ Mar      0.2 @ 3h00 Sun-04       29.7 @16h00 Sat-31    10.8
+ Apr      8.0 @ 6h00 Fri-06       32.1 @16h00 Sun-29    16.3
+ May     11.4 @ 6h00 Tue-01       32.2 @15h00 Sun-06    21.2
+ Jun     17.6 @19h00 Sat-16       37.0 @16h00 Fri-29    24.9
+ Jul     20.4 @ 3h00 Sun-01       36.0 @16h00 Wed-18    27.6
+ Aug     23.3 @10h00 Mon-20       36.0 @15h00 Mon-06    28.2
+ Sep     18.2 @ 7h00 Sun-23       30.8 @16h00 Wed-12    24.1
+ Oct      9.7 @ 7h00 Sat-27       31.6 @15h00 Wed-31    19.2
+ Nov      0.3 @ 6h00 Sun-18       25.2 @16h00 Sat-10    12.7
+ Dec     -2.4 @ 8h00 Thu-20       17.7 @16h00 Mon-24     6.5
+ Annual  -2.4 @ 8h00 Thu-20-Dec   37.0 @16h00 Fri-29-Jun    17.0
+ ---Seasons & typical periods---
+Winter season is Mon-01-Jan - Sun-18-Feb
+Typical winter week begins Mon-05-Feb
+Spring season is Mon-19-Feb - Sun-29-Apr
+Typical spring week begins Mon-02-Apr
+Summer season is Mon-30-Apr - Sun-23-Sep
+Typical summer week begins Mon-03-Sep
+Autumn season is Mon-24-Sep - Sun-18-Nov
+Typical autumn week begins Mon-29-Oct
+Winter season is Mon-19-Nov - Mon-31-Dec
+Typical winter week begins Mon-24-Dec
+*help_end
+*item
+*name	Harbin Heilongjiang CHN
+*aide	Harbin Heilongjiang CHN sourced from DoE
+*dbfl	/usr/esru/es-r/climate/Harbin
+*avail	ONLINE
+*winter_s  1  1 25  2  1 11 31 12
+*spring_s 26  2 22  4 24  9 31 10
+*summer_s 23  4 23  9
+*winter_t  5  2 11  2 29 11  5 12
+*spring_t 26  3  1  4  1 10  7 10
+*summer_t 21  5 27  5
+*help_start
+Climate is Harbin Heilongjiang CHN
+ Location: 45.75N  6.77E : 2001
+ Month    Minimum  Time          Maximum  Time         Mean
+ Jan    -28.7 @ 7h00 Tue-23       -3.8 @14h00 Mon-29   -18.8
+ Feb    -24.8 @ 6h00 Sat-17       -5.9 @15h00 Sun-25   -14.5
+ Mar    -17.6 @ 5h00 Fri-23       11.8 @15h00 Thu-08    -2.6
+ Apr     -6.6 @ 4h00 Fri-06       27.8 @16h00 Mon-30     7.8
+ May      1.0 @ 4h00 Tue-01       29.5 @15h00 Thu-24    14.3
+ Jun      8.3 @ 5h00 Sun-03       32.6 @15h00 Tue-12    20.0
+ Jul     11.7 @ 3h00 Sun-01       32.8 @15h00 Sun-22    22.9
+ Aug     11.4 @ 4h00 Fri-31       32.2 @15h00 Thu-16    21.0
+ Sep      2.1 @ 3h00 Fri-14       28.6 @15h00 Sat-01    14.7
+ Oct     -7.6 @ 6h00 Tue-23       20.9 @15h00 Fri-12     5.1
+ Nov    -27.6 @ 6h00 Fri-30        7.1 @21h00 Sun-04    -6.7
+ Dec    -26.8 @ 7h00 Sun-30        5.9 @24h00 Mon-03   -14.8
+ Annual -28.7 @ 7h00 Tue-23-Jan   32.8 @15h00 Sun-22-Jul     4.1
+ ---Seasons & typical periods---
+Winter season is Mon-01-Jan - Sun-25-Feb
+Typical winter week begins Mon-05-Feb
+Spring season is Mon-26-Feb - Sun-22-Apr
+Typical spring week begins Mon-26-Mar
+Summer season is Mon-23-Apr - Sun-23-Sep
+Typical summer week begins Mon-21-May
+Autumn season is Mon-24-Sep - Wed-31-Oct
+Typical autumn week begins Mon-01-Oct
+Winter season is Thu-01-Nov - Mon-31-Dec
+Typical winter week begins Thu-29-Nov
+*help_end
+*item
+*name	Hefei Anhui CHN
+*aide	Hefei Anhui CHN was sourced from DoE
+*dbfl	/usr/esru/es-r/climate/Hefei
+*avail	ONLINE
+*winter_s  1  1 25  2 12 11 31 12
+*spring_s 26  2 13  5  1 10 11 11
+*summer_s 14  5 30  9
+*winter_t 22  1 28  1 26 11  2 12
+*spring_t 26  3  1  4 29 10  4 11
+*summer_t  6  8 12  8
+*help_start
+Climate is Hefei Anhui CHN
+ Location: 31.87N  2.77W : 2001
+ Month    Minimum  Time          Maximum  Time         Mean
+ Jan     -3.6 @ 6h00 Tue-09       17.5 @15h00 Thu-04     3.0
+ Feb     -2.8 @ 6h00 Sun-11       18.9 @15h00 Tue-20     5.4
+ Mar     -1.4 @ 9h00 Tue-20       25.9 @15h00 Fri-30     9.5
+ Apr      6.6 @ 5h00 Thu-05       29.8 @15h00 Sat-28    16.3
+ May     12.3 @ 5h00 Tue-01       33.1 @15h00 Sun-27    22.1
+ Jun     18.2 @ 4h00 Sun-10       36.4 @15h00 Fri-29    25.4
+ Jul     20.0 @ 4h00 Fri-06       35.9 @16h00 Sat-28    28.0
+ Aug     19.7 @10h00 Mon-13       37.2 @15h00 Thu-23    27.3
+ Sep     15.7 @ 6h00 Fri-28       32.0 @15h00 Sat-15    23.9
+ Oct      9.5 @ 6h00 Thu-25       32.0 @13h00 Tue-02    17.8
+ Nov     -0.2 @ 6h00 Fri-30       30.1 @15h00 Fri-02    10.8
+ Dec     -3.5 @ 6h00 Wed-26       17.3 @15h00 Sun-23     4.5
+ Annual  -3.6 @ 6h00 Tue-09-Jan   37.2 @15h00 Thu-23-Aug    16.2
+ ---Seasons & typical periods---
+Winter season is Mon-01-Jan - Sun-25-Feb
+Typical winter week begins Mon-22-Jan
+Spring season is Mon-26-Feb - Sun-13-May
+Typical spring week begins Mon-26-Mar
+Summer season is Mon-14-May - Sun-30-Sep
+Typical summer week begins Mon-06-Aug
+Autumn season is Mon-01-Oct - Sun-11-Nov
+Typical autumn week begins Mon-29-Oct
+Winter season is Mon-12-Nov - Mon-31-Dec
+Typical winter week begins Mon-26-Nov
+*help_end
+*item
+*name	Hohhot Nei Mongol CHN
+*aide	Hohhot Nei Mongol CHN  was sourced from DoE
+*dbfl	/usr/esru/es-r/climate/Hohhot
+*avail	ONLINE
+*winter_s  1  1  4  3 12 11 31 12
+*spring_s  5  3 13  5  3  9 11 11
+*summer_s 14  5  2  9
+*winter_t  5  2 11  2 26 11  2 12
+*spring_t 26  3  1  4  8 10 14 10
+*summer_t  6  8 12  8
+*help_start
+Climate is Hohhot Nei Mongol CHN
+ Location: 40.82N  8.32W : 2001
+ Month    Minimum  Time          Maximum  Time         Mean
+ Jan    -20.7 @ 5h00 Mon-01       -2.2 @15h00 Sun-07   -12.2
+ Feb    -23.1 @ 7h00 Sat-03        6.0 @16h00 Wed-28    -8.4
+ Mar    -13.7 @ 7h00 Thu-01       13.6 @16h00 Wed-28    -0.8
+ Apr     -6.2 @ 5h00 Sun-08       25.0 @15h00 Fri-13     9.0
+ May      1.9 @ 5h00 Tue-08       31.7 @17h00 Wed-30    15.9
+ Jun      7.6 @ 4h00 Sat-09       34.6 @16h00 Thu-21    21.3
+ Jul     13.2 @ 5h00 Sat-21       32.9 @16h00 Sun-01    22.3
+ Aug     11.9 @ 5h00 Thu-09       30.4 @15h00 Wed-01    20.4
+ Sep      3.0 @ 6h00 Thu-20       26.6 @15h00 Sun-23    15.3
+ Oct     -7.6 @ 7h00 Mon-29       21.2 @15h00 Mon-08     6.9
+ Nov    -15.6 @ 7h00 Thu-29       11.8 @15h00 Sat-10    -2.8
+ Dec    -18.9 @ 7h00 Tue-18        4.4 @15h00 Sat-01    -9.0
+ Annual -23.1 @ 7h00 Sat-03-Feb   34.6 @16h00 Thu-21-Jun     6.6
+ ---Seasons & typical periods---
+Winter season is Mon-01-Jan - Sun-04-Mar
+Typical winter week begins Mon-05-Feb
+Spring season is Mon-05-Mar - Sun-13-May
+Typical spring week begins Mon-26-Mar
+Summer season is Mon-14-May - Sun-02-Sep
+Typical summer week begins Mon-06-Aug
+Autumn season is Mon-03-Sep - Sun-11-Nov
+Typical autumn week begins Mon-08-Oct
+Winter season is Mon-12-Nov - Mon-31-Dec
+Typical winter week begins Mon-26-Nov
+*help_end
+*item
+*name	Hong Kong SAR CHN
+*aide	Hong Kong SAR CHN was sourced from DoE
+*dbfl	/usr/esru/es-r/climate/Hongkong
+*avail	ONLINE
+*winter_s  1  1  4  3 19 11 31 12
+*spring_s  5  3  6  5 24  9 18 11
+*summer_s  7  5 23  9
+*winter_t  5  2 11  2 10 12 16 12
+*spring_t 26  3  1  4 15 10 21 10
+*summer_t 14  5 20  5
+*help_start
+Climate is HONG KONG SAR CHN
+ Location: 22.32N  5.83W : 2001
+ Month    Minimum  Time          Maximum  Time         Mean
+ Jan      9.3 @ 6h00 Wed-31       22.5 @13h00 Mon-22    16.1
+ Feb     10.2 @21h00 Mon-19       23.3 @13h00 Tue-06    16.3
+ Mar     11.7 @ 7h00 Wed-07       26.4 @14h00 Sat-17    19.0
+ Apr     14.8 @ 4h00 Sun-01       30.1 @15h00 Sat-28    22.6
+ May     21.4 @ 3h00 Thu-24       31.3 @16h00 Tue-15    26.1
+ Jun     23.1 @ 5h00 Sun-03       32.5 @18h00 Sat-23    27.9
+ Jul     25.0 @11h00 Wed-18       32.8 @17h00 Sun-01    28.8
+ Aug     24.6 @ 5h00 Fri-10       32.7 @15h00 Wed-29    28.4
+ Sep     23.6 @ 6h00 Sun-23       32.8 @13h00 Thu-20    27.5
+ Oct     20.6 @ 7h00 Wed-31       31.0 @14h00 Wed-03    25.3
+ Nov     12.4 @ 7h00 Thu-29       27.8 @14h00 Tue-06    21.5
+ Dec      9.2 @ 8h00 Mon-17       24.8 @16h00 Mon-03    17.1
+ Annual   9.2 @ 8h00 Mon-17-Dec   32.8 @17h00 Sun-01-Jul    23.1
+ ---Seasons & typical periods---
+Winter season is Mon-01-Jan - Sun-04-Mar
+Typical winter week begins Mon-05-Feb
+Spring season is Mon-05-Mar - Sun-06-May
+Typical spring week begins Mon-26-Mar
+Summer season is Mon-07-May - Sun-23-Sep
+Typical summer week begins Mon-14-May
+Autumn season is Mon-24-Sep - Sun-18-Nov
+Typical autumn week begins Mon-15-Oct
+Winter season is Mon-19-Nov - Mon-31-Dec
+Typical winter week begins Mon-10-Dec
+*help_end
+*item
+*name	Jinan Shandong CHN
+*aide	Jinan Shandong CHN was sourced from DoE
+*dbfl	/usr/esru/es-r/climate/Jinan
+*avail	ONLINE
+*winter_s  1  1  4  3 12 11 31 12
+*spring_s  5  3 13  5 17  9 11 11
+*summer_s 14  5 16  9
+*winter_t  9  1 15  1 20 11 26 11
+*spring_t  6  3 12  3  2 10  8 10
+*summer_t 11  7 17  7
+*help_start
+Climate is Jinan Shandong CHN
+ Location: 36.60N  2.95W : 2001
+ Month    Minimum  Time          Maximum  Time         Mean
+ Jan    -11.5 @ 7h00 Thu-18       11.0 @15h00 Tue-02    -0.5
+ Feb     -7.4 @ 6h00 Mon-12       14.8 @15h00 Thu-08     3.1
+ Mar     -3.0 @ 6h00 Sat-17       24.5 @15h00 Tue-20     9.2
+ Apr      3.0 @ 5h00 Mon-09       31.6 @15h00 Mon-02    15.8
+ May      8.3 @ 4h00 Thu-10       33.0 @16h00 Tue-08    21.8
+ Jun     13.9 @ 4h00 Sun-10       37.2 @15h00 Tue-19    26.5
+ Jul     20.1 @ 4h00 Wed-11       36.8 @15h00 Mon-23    27.0
+ Aug     18.1 @ 5h00 Fri-31       35.2 @13h00 Fri-03    26.5
+ Sep     12.9 @ 6h00 Thu-27       31.2 @15h00 Sun-23    22.4
+ Oct      3.4 @19h00 Wed-31       27.7 @15h00 Mon-01    16.5
+ Nov     -3.5 @ 6h00 Wed-14       19.9 @15h00 Fri-23     8.4
+ Dec     -7.5 @ 6h00 Fri-07       13.5 @15h00 Sun-23     1.3
+ Annual -11.5 @ 7h00 Thu-18-Jan   37.2 @15h00 Tue-19-Jun    14.9
+ ---Seasons & typical periods---
+Winter season is Mon-01-Jan - Sun-04-Mar
+Typical winter week begins Tue-09-Jan
+Spring season is Mon-05-Mar - Sun-13-May
+Typical spring week begins Tue-06-Mar
+Summer season is Mon-14-May - Sun-16-Sep
+Typical summer week begins Wed-11-Jul
+Autumn season is Mon-17-Sep - Sun-11-Nov
+Typical autumn week begins Tue-02-Oct
+Winter season is Mon-12-Nov - Mon-31-Dec
+Typical winter week begins Tue-20-Nov
+*help_end
+*item
+*name	Kunming Yunnan CHN
+*aide	Kunming Yunnan CHN was sourced from DoE
+*dbfl	/usr/esru/es-r/climate/Kunming
+*avail	ONLINE
+*winter_s  1  1  4  3 12 11 31 12
+*spring_s  5  3  6  5 17  9 11 11
+*summer_s  7  5 16  9
+*winter_t 29  1  4  2  3 12  9 12
+*spring_t 26  3  1  4 22 10 28 10
+*summer_t  4  6 10  6
+*help_start
+Climate is Kunming Yunnan CHN
+ Location: 55.90N  4.15W : 2001
+ Month    Minimum  Time          Maximum  Time         Mean
+ Jan      0.8 @ 8h00 Sat-20       17.8 @17h00 Tue-02     8.9
+ Feb      0.1 @10h00 Wed-21       23.6 @18h00 Thu-15    10.4
+ Mar      2.6 @ 8h00 Sun-04       26.3 @17h00 Fri-23    14.9
+ Apr      5.0 @ 4h00 Sun-22       30.2 @17h00 Tue-17    17.7
+ May     12.3 @ 7h00 Sat-05       27.1 @18h00 Tue-29    18.8
+ Jun     13.4 @ 8h00 Fri-01       28.8 @17h00 Thu-14    20.1
+ Jul     15.5 @ 8h00 Tue-31       26.4 @18h00 Tue-31    20.0
+ Aug     13.9 @ 8h00 Wed-01       27.2 @17h00 Fri-03    19.7
+ Sep     10.9 @ 6h00 Mon-24       28.2 @16h00 Fri-07    18.2
+ Oct     10.1 @ 9h00 Fri-26       25.8 @17h00 Wed-03    16.5
+ Nov      2.7 @ 9h00 Sun-25       22.7 @17h00 Sun-04    11.6
+ Dec     -2.1 @ 9h00 Tue-25       19.2 @17h00 Sun-30     8.4
+ Annual  -2.1 @ 9h00 Tue-25-Dec   30.2 @17h00 Tue-17-Apr    15.5
+ ---Seasons & typical periods---
+Winter season is Mon-01-Jan - Sun-04-Mar
+Typical winter week begins Mon-29-Jan
+Spring season is Mon-05-Mar - Sun-06-May
+Typical spring week begins Mon-26-Mar
+Summer season is Mon-07-May - Sun-16-Sep
+Typical summer week begins Mon-04-Jun
+Autumn season is Mon-17-Sep - Sun-11-Nov
+Typical autumn week begins Mon-22-Oct
+Winter season is Mon-12-Nov - Mon-31-Dec
+Typical winter week begins Mon-03-Dec
+*help_end
+*item
+*name	Lanzhou Gansu CHN
+*aide	Lanzhou Gansu CHN was sourced from DoE
+*dbfl	/usr/esru/es-r/climate/Lanzhou
+*avail	ONLINE
+*winter_s  1  1 25  2 19 11 31 12
+*spring_s 26  2  6  5 17  9 18 11
+*summer_s  7  5 16  9
+*winter_t 29  1  4  2  3 12  9 12
+*spring_t 16  4 22  4 15 10 21 10
+*summer_t 27  8  2  9
+*help_start
+Climate is Lanzhou Gansu CHN
+ Location: 55.90N  4.15W : 2001
+ Month    Minimum  Time          Maximum  Time         Mean
+ Jan    -16.9 @ 7h00 Fri-19        8.6 @17h00 Wed-31    -5.5
+ Feb     -7.7 @ 7h00 Thu-01       14.8 @16h00 Wed-21     0.7
+ Mar     -9.7 @ 6h00 Mon-19       21.6 @15h00 Wed-28     5.8
+ Apr     -0.7 @ 4h00 Wed-18       30.0 @16h00 Sun-15    12.5
+ May      6.8 @ 5h00 Sun-06       29.7 @15h00 Thu-03    17.4
+ Jun     12.4 @ 5h00 Mon-25       34.8 @15h00 Fri-22    21.3
+ Jul     12.6 @ 4h00 Sun-01       34.7 @16h00 Tue-24    22.4
+ Aug     11.3 @ 6h00 Tue-28       31.6 @16h00 Sun-12    21.1
+ Sep      6.1 @ 6h00 Sun-23       32.2 @17h00 Sat-01    16.9
+ Oct     -1.5 @ 7h00 Mon-29       23.8 @15h00 Fri-05    10.0
+ Nov     -5.1 @ 7h00 Mon-26       14.7 @15h00 Sun-04     3.0
+ Dec    -11.3 @ 7h00 Thu-13        7.2 @15h00 Mon-10    -3.1
+ Annual -16.9 @ 7h00 Fri-19-Jan   34.8 @15h00 Fri-22-Jun    10.2
+ ---Seasons & typical periods---
+Winter season is Mon-01-Jan - Sun-25-Feb
+Typical winter week begins Mon-29-Jan
+Spring season is Mon-26-Feb - Sun-06-May
+Typical spring week begins Mon-16-Apr
+Summer season is Mon-07-May - Sun-16-Sep
+Typical summer week begins Mon-27-Aug
+Autumn season is Mon-17-Sep - Sun-18-Nov
+Typical autumn week begins Mon-15-Oct
+Winter season is Mon-19-Nov - Mon-31-Dec
+Typical winter week begins Mon-03-Dec
+*help_end
+*item
+*name	Lhasa Tibet CHN
+*aide	Lhasa Tibet CHN was sourced from DoE
+*dbfl	/usr/esru/es-r/climate/Lhasa
+*avail	ONLINE
+*winter_s  1  1  4  3  5 11 31 12
+*spring_s  5  3  6  5  3  9  4 11
+*summer_s  7  5  2  9
+*winter_t 29  1  4  2 19 11 25 11
+*spring_t  2  4  8  4 10  9 16  9
+*summer_t 21  5 27  5
+*help_start
+Climate is Lhasa Tibet CHN
+ Location: 55.90N  4.15W : 2001
+ Month    Minimum  Time          Maximum  Time         Mean
+ Jan    -13.3 @ 7h00 Wed-03       10.2 @15h00 Thu-11    -1.5
+ Feb     -7.8 @ 7h00 Fri-16       13.7 @17h00 Tue-13     1.9
+ Mar     -7.5 @ 7h00 Sat-03       16.9 @16h00 Sat-17     4.4
+ Apr     -3.3 @ 7h00 Wed-04       19.5 @17h00 Sat-07     8.8
+ May      1.5 @ 7h00 Wed-02       25.3 @16h00 Wed-23    12.5
+ Jun      6.6 @ 6h00 Mon-25       27.9 @16h00 Tue-12    16.4
+ Jul      7.6 @ 6h00 Mon-02       26.2 @17h00 Fri-06    15.7
+ Aug      7.4 @13h00 Sun-19       25.8 @17h00 Wed-08    15.2
+ Sep      4.4 @ 5h00 Sun-23       21.7 @16h00 Mon-24    13.1
+ Oct     -3.6 @ 7h00 Tue-30       22.1 @16h00 Sun-07     9.3
+ Nov     -6.9 @ 7h00 Mon-26       18.7 @16h00 Sat-03     3.9
+ Dec    -10.4 @ 7h00 Sat-29       13.3 @16h00 Sun-02    -0.6
+ Annual -13.3 @ 7h00 Wed-03-Jan   27.9 @16h00 Tue-12-Jun     8.3
+ ---Seasons & typical periods---
+Winter season is Mon-01-Jan - Sun-04-Mar
+Typical winter week begins Mon-29-Jan
+Spring season is Mon-05-Mar - Sun-06-May
+Typical spring week begins Mon-02-Apr
+Summer season is Mon-07-May - Sun-02-Sep
+Typical summer week begins Mon-21-May
+Autumn season is Mon-03-Sep - Sun-04-Nov
+Typical autumn week begins Mon-10-Sep
+Winter season is Mon-05-Nov - Mon-31-Dec
+Typical winter week begins Mon-19-Nov
+*help_end
+*item
+*name	Nanchang Jiangxi CHN
+*aide	Nanchang Jiangxi CHN was sourced from DoE
+*dbfl	/usr/esru/es-r/climate/Nanchang
+*avail	ONLINE
+*winter_s  1  1 25  2 26 11 31 12
+*spring_s 26  2 13  5  3  9 25 11
+*summer_s 14  5  2  9
+*winter_t  5  2 11  2 17 12 23 12
+*spring_t 12  3 18  3  1 10  7 10
+*summer_t 20  8 26  8
+*help_start
+Climate is Nanchang Jiangxi CHN
+ Location: 28.60N  4.08W : 2001
+ Month    Minimum  Time          Maximum  Time         Mean
+ Jan     -4.3 @ 6h00 Sun-21       14.9 @15h00 Thu-25     5.9
+ Feb      1.4 @ 6h00 Mon-26       19.7 @15h00 Thu-22     6.8
+ Mar      3.5 @ 6h00 Thu-01       29.4 @15h00 Mon-05    10.6
+ Apr      9.6 @ 5h00 Wed-04       31.1 @15h00 Sun-29    17.4
+ May     14.1 @ 5h00 Wed-16       32.8 @16h00 Wed-23    21.8
+ Jun     17.6 @ 5h00 Mon-11       35.5 @13h00 Sat-30    25.7
+ Jul     20.5 @11h00 Mon-02       39.2 @15h00 Sun-22    29.4
+ Aug     23.7 @22h00 Mon-13       36.5 @15h00 Sat-11    28.5
+ Sep     16.7 @ 5h00 Sat-08       36.0 @17h00 Tue-04    24.9
+ Oct     13.9 @ 6h00 Mon-29       30.8 @15h00 Tue-02    20.0
+ Nov      3.7 @ 6h00 Thu-29       26.2 @15h00 Fri-23    13.7
+ Dec      0.8 @ 6h00 Sun-30       17.1 @15h00 Tue-11     7.9
+ Annual  -4.3 @ 6h00 Sun-21-Jan   39.2 @15h00 Sun-22-Jul    17.8
+ ---Seasons & typical periods---
+Winter season is Mon-01-Jan - Sun-25-Feb
+Typical winter week begins Mon-05-Feb
+Spring season is Mon-26-Feb - Sun-13-May
+Typical spring week begins Mon-12-Mar
+Summer season is Mon-14-May - Sun-02-Sep
+Typical summer week begins Mon-20-Aug
+Autumn season is Mon-03-Sep - Sun-25-Nov
+Typical autumn week begins Mon-01-Oct
+Winter season is Mon-26-Nov - Mon-31-Dec
+Typical winter week begins Mon-17-Dec
+*help_end
+*item
+*name	Nanjing Jiangsu CHN
+*aide	Nanjing Jiangsu CHN was sourced from DoE
+*dbfl	/usr/esru/es-r/climate/Nanjing
+*avail	ONLINE
+*winter_s  1  1  4  3 12 11 31 12
+*spring_s  5  3  6  5  3  9 11 11
+*summer_s  7  5  2  9
+*winter_t 12  2 18  2 24 12 30 12
+*spring_t  2  4  8  4  1 10  7 10
+*summer_t 20  8 26  8
+*help_start
+Climate is Nanjing Jiangsu CHN
+ Location: 32.83N  1.20W : 2001
+ Month    Minimum  Time          Maximum  Time         Mean
+ Jan     -5.6 @ 4h00 Thu-25       14.0 @15h00 Sat-13     2.2
+ Feb     -3.4 @ 8h00 Sat-03       18.1 @16h00 Thu-22     4.5
+ Mar     -1.0 @ 7h00 Fri-02       19.6 @14h00 Wed-21     8.9
+ Apr      6.5 @ 7h00 Tue-03       25.6 @16h00 Mon-23    15.7
+ May      9.7 @ 6h00 Sat-05       31.7 @15h00 Tue-08    20.6
+ Jun     16.8 @ 6h00 Sun-03       35.4 @16h00 Fri-29    24.8
+ Jul     20.7 @ 1h00 Fri-06       37.2 @16h00 Fri-20    28.6
+ Aug     21.1 @ 7h00 Tue-21       35.1 @15h00 Wed-08    27.7
+ Sep     17.1 @ 5h00 Mon-17       32.2 @16h00 Sun-02    23.5
+ Oct      4.4 @ 7h00 Tue-30       31.9 @16h00 Mon-15    16.9
+ Nov     -1.4 @ 6h00 Thu-29       20.8 @16h00 Wed-07    10.5
+ Dec     -3.9 @ 8h00 Thu-20       15.9 @15h00 Mon-24     4.9
+ Annual  -5.6 @ 4h00 Thu-25-Jan   37.2 @16h00 Fri-20-Jul    15.8
+ ---Seasons & typical periods---
+Winter season is Mon-01-Jan - Sun-04-Mar
+Typical winter week begins Mon-12-Feb
+Spring season is Mon-05-Mar - Sun-06-May
+Typical spring week begins Mon-02-Apr
+Summer season is Mon-07-May - Sun-02-Sep
+Typical summer week begins Mon-20-Aug
+Autumn season is Mon-03-Sep - Sun-11-Nov
+Typical autumn week begins Mon-01-Oct
+Winter season is Mon-12-Nov - Mon-31-Dec
+Typical winter week begins Mon-24-Dec
+*help_end
+*item
+*name	Nanning Guangxi Zhuang CHN
+*aide	Nanning Guangxi Zhuang CHN  was sourced from DoE
+*dbfl	/usr/esru/es-r/climate/Nanning
+*avail	ONLINE
+*winter_s  1  1 18  2  3 12 31 12
+*spring_s 19  2 22  4 24  9  2 12
+*summer_s 23  4 23  9
+*winter_t  1  1  7  1 17 12 23 12
+*spring_t 12  3 18  3 15 10 21 10
+*summer_t  7  5 13  5
+*help_start
+Climate is Nanning Guangxi Zhuang CHN
+ Location: 22.63N 11.78W : 2001
+ Month    Minimum  Time          Maximum  Time         Mean
+ Jan      3.2 @ 7h00 Fri-05       25.5 @15h00 Thu-25    13.9
+ Feb      6.8 @ 6h00 Mon-19       28.1 @15h00 Mon-26    14.4
+ Mar      7.1 @ 4h00 Thu-01       31.0 @15h00 Fri-23    18.2
+ Apr     16.7 @ 5h00 Sat-07       34.5 @15h00 Wed-25    22.7
+ May     19.7 @ 5h00 Thu-24       33.2 @15h00 Sat-12    26.2
+ Jun     21.0 @11h00 Sun-10       35.6 @15h00 Fri-08    28.1
+ Jul     23.5 @ 5h00 Tue-10       36.0 @15h00 Thu-12    27.9
+ Aug     23.3 @ 6h00 Wed-29       36.3 @15h00 Sat-04    28.1
+ Sep     20.0 @ 6h00 Sat-22       35.2 @15h00 Thu-06    27.3
+ Oct     12.0 @ 6h00 Fri-19       33.6 @15h00 Sat-13    23.4
+ Nov      9.6 @ 7h00 Thu-29       28.7 @15h00 Wed-14    18.7
+ Dec      4.5 @ 7h00 Mon-31       25.1 @15h00 Fri-14    14.9
+ Annual   3.2 @ 7h00 Fri-05-Jan   36.3 @15h00 Sat-04-Aug    22.0
+ ---Seasons & typical periods---
+Winter season is Mon-01-Jan - Sun-18-Feb
+Typical winter week begins Mon-01-Jan
+Spring season is Mon-19-Feb - Sun-22-Apr
+Typical spring week begins Mon-12-Mar
+Summer season is Mon-23-Apr - Sun-23-Sep
+Typical summer week begins Mon-07-May
+Autumn season is Mon-24-Sep - Sun-02-Dec
+Typical autumn week begins Mon-15-Oct
+Winter season is Mon-03-Dec - Mon-31-Dec
+Typical winter week begins Mon-17-Dec
+*help_end
+*item
+*name	Shanghai - CHN
+*aide	Shanghai - CHN was sourced from DoE
+*dbfl	/usr/esru/es-r/climate/Shanghai
+*avail	ONLINE
+*winter_s  1  1  4  3 11 11 31 12
+*spring_s  5  3 22  4 17  9 10 11
+*summer_s 23  4 16  9
+*winter_t 12  2 18  2 18 11 24 11
+*spring_t 19  3 25  3 24  9 30  9
+*summer_t 21  5 27  5
+*help_start
+Climate is SHANGHAI - CHN
+ Location: 31.17N  1.43E : 2001
+ Month    Minimum  Time          Maximum  Time         Mean
+ Jan     -3.2 @ 5h00 Fri-26       20.9 @14h00 Mon-29     4.3
+ Feb     -1.3 @ 5h00 Fri-23       14.3 @14h00 Fri-02     5.5
+ Mar      0.4 @ 5h00 Wed-14       19.0 @14h00 Tue-20     8.9
+ Apr      4.0 @ 4h00 Thu-05       29.0 @15h00 Sat-28    14.6
+ May     14.5 @17h00 Wed-09       30.0 @13h00 Fri-04    19.9
+ Jun     16.9 @ 5h00 Fri-08       33.2 @17h00 Thu-28    24.0
+ Jul     20.0 @20h00 Wed-04       38.0 @13h00 Fri-20    28.2
+ Aug     20.1 @ 8h00 Sat-25       38.0 @15h00 Thu-02    27.7
+ Sep     14.0 @ 4h00 Wed-26       33.0 @13h00 Fri-07    23.8
+ Oct      7.0 @ 6h00 Fri-26       27.0 @16h00 Sun-14    18.2
+ Nov     -2.0 @ 6h00 Thu-29       26.3 @14h00 Sun-04    12.2
+ Dec     -6.0 @ 9h00 Fri-21       18.0 @14h00 Wed-12     7.1
+ Annual  -6.0 @ 9h00 Fri-21-Dec   38.0 @13h00 Fri-20-Jul    16.3
+ ---Seasons & typical periods---
+Winter season is Mon-01-Jan - Sun-04-Mar
+Typical winter week begins Mon-12-Feb
+Spring season is Mon-05-Mar - Sun-22-Apr
+Typical spring week begins Mon-19-Mar
+Summer season is Mon-23-Apr - Sun-16-Sep
+Typical summer week begins Mon-21-May
+Autumn season is Mon-17-Sep - Sat-10-Nov
+Typical autumn week begins Mon-24-Sep
+Winter season is Sun-11-Nov - Mon-31-Dec
+Typical winter week begins Sun-18-Nov
+*help_end
+*item
+*name	Shenyang Liaoning CHN
+*aide	Shenyang Liaoning CHN was sourced from DoE
+*dbfl	/usr/esru/es-r/climate/Shenyang
+*avail	ONLINE
+*winter_s  1  1 25  2 12 11 31 12
+*spring_s 26  2  6  5 17  9 11 11
+*summer_s  7  5 16  9
+*winter_t 22  1 28  1 17 12 23 12
+*spring_t 26  3  1  4  1 10  7 10
+*summer_t  3  9  9  9
+*help_start
+Climate is Shenyang Liaoning CHN
+ Location: 41.73N  3.45E : 2001
+ Month    Minimum  Time          Maximum  Time         Mean
+ Jan    -23.4 @ 6h00 Sun-14        4.3 @15h00 Mon-15   -11.5
+ Feb    -22.0 @ 6h00 Tue-06        8.2 @13h00 Sat-24    -6.5
+ Mar    -13.4 @ 5h00 Thu-01       17.4 @15h00 Thu-08     1.7
+ Apr     -8.7 @ 5h00 Tue-10       23.0 @15h00 Sat-28    10.0
+ May      4.7 @ 4h00 Tue-08       29.5 @15h00 Tue-22    16.7
+ Jun      9.6 @ 4h00 Fri-01       30.7 @16h00 Mon-11    21.5
+ Jul     18.1 @ 4h00 Fri-13       33.5 @15h00 Tue-17    25.7
+ Aug     14.0 @ 4h00 Sat-25       34.1 @15h00 Fri-31    23.2
+ Sep      5.0 @ 5h00 Sun-23       31.8 @12h00 Tue-04    17.2
+ Oct     -2.1 @ 6h00 Mon-29       22.0 @14h00 Sat-06    10.2
+ Nov    -12.4 @ 6h00 Tue-27       16.2 @15h00 Fri-02     1.0
+ Dec    -23.0 @ 7h00 Sun-30        6.2 @14h00 Mon-10    -7.6
+ Annual -23.4 @ 6h00 Sun-14-Jan   34.1 @15h00 Fri-31-Aug     8.6
+ ---Seasons & typical periods---
+Winter season is Mon-01-Jan - Sun-25-Feb
+Typical winter week begins Mon-22-Jan
+Spring season is Mon-26-Feb - Sun-06-May
+Typical spring week begins Mon-26-Mar
+Summer season is Mon-07-May - Sun-16-Sep
+Typical summer week begins Mon-03-Sep
+Autumn season is Mon-17-Sep - Sun-11-Nov
+Typical autumn week begins Mon-01-Oct
+Winter season is Mon-12-Nov - Mon-31-Dec
+Typical winter week begins Mon-17-Dec
+*help_end
+*item
+*name	Shijiazhuang Hebei CHN
+*aide	Shijiazhuang Hebei CHN was sourced from DoE
+*dbfl	/usr/esru/es-r/climate/Shijiazhuang
+*avail	ONLINE
+*winter_s  1  1 25  2 19 11 31 12
+*spring_s 26  2  6  5 10  9 18 11
+*summer_s  7  5  9  9
+*winter_t  1  1  7  1 26 11  2 12
+*spring_t  2  4  8  4 15 10 21 10
+*summer_t 28  5  3  6
+*help_start
+Climate is Shijiazhuang Hebei CHN
+ Location: 38.03N  5.58W : 2001
+ Month    Minimum  Time          Maximum  Time         Mean
+ Jan    -12.3 @ 7h00 Thu-18       12.7 @15h00 Tue-02    -1.6
+ Feb    -11.2 @ 5h00 Thu-01       14.8 @15h00 Tue-27     0.4
+ Mar     -1.1 @ 5h00 Sat-17       26.1 @15h00 Tue-20     9.0
+ Apr      1.2 @ 5h00 Tue-03       30.8 @15h00 Mon-30    15.4
+ May     10.3 @ 5h00 Fri-04       33.2 @15h00 Sat-19    21.4
+ Jun     17.5 @ 4h00 Tue-05       40.0 @16h00 Sat-30    25.9
+ Jul     17.2 @ 5h00 Thu-26       36.5 @15h00 Wed-04    26.0
+ Aug     17.2 @ 5h00 Mon-20       33.6 @15h00 Sat-04    25.8
+ Sep     11.1 @ 6h00 Fri-21       36.5 @15h00 Sat-01    20.9
+ Oct      0.2 @ 4h00 Wed-31       27.7 @15h00 Sun-07    14.4
+ Nov     -4.9 @ 7h00 Tue-27       15.5 @15h00 Fri-02     5.7
+ Dec     -8.6 @ 7h00 Tue-25        9.4 @15h00 Mon-31    -0.9
+ Annual -12.3 @ 7h00 Thu-18-Jan   40.0 @16h00 Sat-30-Jun    13.6
+ ---Seasons & typical periods---
+Winter season is Mon-01-Jan - Sun-25-Feb
+Typical winter week begins Mon-01-Jan
+Spring season is Mon-26-Feb - Sun-06-May
+Typical spring week begins Mon-02-Apr
+Summer season is Mon-07-May - Sun-09-Sep
+Typical summer week begins Mon-28-May
+Autumn season is Mon-10-Sep - Sun-18-Nov
+Typical autumn week begins Mon-15-Oct
+Winter season is Mon-19-Nov - Mon-31-Dec
+Typical winter week begins Mon-26-Nov
+*help_end
+*item
+*name	Taiyuan Shanxi CHN
+*aide	Taiyuan Shanxi CHN was sourced from DoE
+*dbfl	/usr/esru/es-r/climate/Taiyuan
+*avail	ONLINE
+*winter_s  1  1 25  2 19 11 31 12
+*spring_s 26  2 22  4 10  9 18 11
+*summer_s 23  4  9  9
+*winter_t 29  1  4  2 10 12 16 12
+*spring_t 26  3  1  4 15 10 21 10
+*summer_t 21  5 27  5
+*help_start
+Climate is Taiyuan Shanxi CHN
+ Location: 37.78N  7.45W : 2001
+ Month    Minimum  Time          Maximum  Time         Mean
+ Jan    -17.1 @ 8h00 Fri-05        9.7 @16h00 Wed-31    -4.3
+ Feb    -16.6 @ 9h00 Mon-05       12.5 @16h00 Sun-18    -0.5
+ Mar     -5.8 @ 8h00 Sun-11       18.4 @16h00 Sat-31     6.1
+ Apr     -1.2 @ 7h00 Wed-11       29.6 @18h00 Wed-18    12.6
+ May      7.5 @ 7h00 Tue-08       30.9 @16h00 Fri-25    18.7
+ Jun      9.7 @ 1h00 Fri-01       33.5 @14h00 Sun-24    21.6
+ Jul     13.4 @ 6h00 Mon-02       34.2 @17h00 Mon-09    24.0
+ Aug     14.2 @ 7h00 Tue-21       31.7 @15h00 Tue-07    22.2
+ Sep      6.3 @ 7h00 Fri-07       31.3 @18h00 Sat-01    17.7
+ Oct     -3.7 @ 7h00 Fri-26       27.3 @17h00 Wed-03    10.1
+ Nov     -9.2 @ 9h00 Tue-27       13.7 @16h00 Sun-04     3.3
+ Dec    -16.3 @ 8h00 Thu-20       11.2 @17h00 Wed-12    -2.2
+ Annual -17.1 @ 8h00 Fri-05-Jan   34.2 @17h00 Mon-09-Jul    10.8
+ ---Seasons & typical periods---
+Winter season is Mon-01-Jan - Sun-25-Feb
+Typical winter week begins Mon-29-Jan
+Spring season is Mon-26-Feb - Sun-22-Apr
+Typical spring week begins Mon-26-Mar
+Summer season is Mon-23-Apr - Sun-09-Sep
+Typical summer week begins Mon-21-May
+Autumn season is Mon-10-Sep - Sun-18-Nov
+Typical autumn week begins Mon-15-Oct
+Winter season is Mon-19-Nov - Mon-31-Dec
+Typical winter week begins Mon-10-Dec
+*help_end
+*item
+*name	Tianjin Tianjin CHN
+*aide	Tianjin Tianjin CHN was sourced from DoE
+*dbfl	/usr/esru/es-r/climate/Tianjin
+*avail	ONLINE
+*winter_s  1  1 25  2 19 11 31 12
+*spring_s 26  2 13  5 17  9 18 11
+*summer_s 14  5 16  9
+*winter_t 22  1 28  1 24 12 30 12
+*spring_t 23  4 29  4  8 10 14 10
+*summer_t 11  6 17  6
+*help_start
+Climate is Tianjin Tianjin CHN
+ Location: 39.08N  2.93W : 2001
+ Month    Minimum  Time          Maximum  Time         Mean
+ Jan    -11.6 @ 7h00 Thu-18        8.1 @15h00 Sun-07    -2.4
+ Feb    -13.9 @ 6h00 Wed-07       12.8 @15h00 Wed-21    -1.6
+ Mar     -5.1 @ 6h00 Sat-17       22.2 @15h00 Tue-20     6.8
+ Apr      4.4 @ 5h00 Tue-03       30.9 @15h00 Tue-17    14.4
+ May      9.4 @ 5h00 Wed-02       33.1 @15h00 Wed-30    20.7
+ Jun     14.9 @ 4h00 Wed-13       36.9 @15h00 Wed-20    24.2
+ Jul     19.5 @ 4h00 Fri-13       35.6 @15h00 Sat-28    26.1
+ Aug     15.5 @ 5h00 Fri-31       35.0 @14h00 Thu-02    25.5
+ Sep     11.4 @ 5h00 Fri-21       34.9 @15h00 Sat-01    20.7
+ Oct      1.4 @19h00 Wed-31       25.1 @15h00 Fri-12    14.3
+ Nov     -7.0 @ 7h00 Sun-18       21.7 @15h00 Sat-03     5.3
+ Dec    -10.9 @ 7h00 Fri-21       11.6 @14h00 Sun-09    -0.6
+ Annual -13.9 @ 6h00 Wed-07-Feb   36.9 @15h00 Wed-20-Jun    12.9
+ ---Seasons & typical periods---
+Winter season is Mon-01-Jan - Sun-25-Feb
+Typical winter week begins Mon-22-Jan
+Spring season is Mon-26-Feb - Sun-13-May
+Typical spring week begins Mon-23-Apr
+Summer season is Mon-14-May - Sun-16-Sep
+Typical summer week begins Mon-11-Jun
+Autumn season is Mon-17-Sep - Sun-18-Nov
+Typical autumn week begins Mon-08-Oct
+Winter season is Mon-19-Nov - Mon-31-Dec
+Typical winter week begins Mon-24-Dec
+*help_end
+*item
+*name	URUMQI - CHN
+*aide	URUMQI - CHN was sourced from DoE
+*dbfl	/usr/esru/es-r/climate/Urumqi
+*avail	ONLINE
+*winter_s  1  1 11  3 12 11 31 12
+*spring_s 12  3 27  5 10  9 11 11
+*summer_s 28  5  9  9
+*winter_t 29  1  4  2  3 12  9 12
+*spring_t 23  4 29  4 24  9 30  9
+*summer_t 30  7  5  8
+*help_start
+Climate is URUMQI - CHN
+ Location: 55.90N  4.15W : 2001
+ Month    Minimum  Time          Maximum  Time         Mean
+ Jan    -23.7 @ 8h00 Wed-31       -1.6 @14h00 Fri-05   -12.3
+ Feb    -21.2 @ 8h00 Sun-18        1.4 @14h00 Fri-02    -9.7
+ Mar    -12.2 @ 8h00 Mon-05       18.4 @17h00 Mon-26     0.2
+ Apr     -2.4 @ 8h00 Sat-21       30.0 @14h00 Tue-17     9.9
+ May      4.1 @11h00 Sat-19       30.8 @17h00 Thu-31    16.8
+ Jun      9.3 @23h00 Sun-17       32.9 @17h00 Sun-24    21.5
+ Jul     13.0 @14h00 Tue-31       36.3 @17h00 Fri-27    24.0
+ Aug     11.7 @ 8h00 Thu-16       33.6 @17h00 Wed-29    22.5
+ Sep      4.3 @ 8h00 Thu-27       28.7 @17h00 Thu-13    17.0
+ Oct     -3.0 @ 8h00 Wed-24       28.1 @17h00 Sat-06     8.1
+ Nov    -12.9 @ 5h00 Mon-26       11.6 @14h00 Sun-11    -1.5
+ Dec    -18.4 @ 8h00 Sat-22        3.9 @17h00 Fri-07    -8.6
+ Annual -23.7 @ 8h00 Wed-31-Jan   36.3 @17h00 Fri-27-Jul     7.4
+ ---Seasons & typical periods---
+Winter season is Mon-01-Jan - Sun-11-Mar
+Typical winter week begins Mon-29-Jan
+Spring season is Mon-12-Mar - Sun-27-May
+Typical spring week begins Mon-23-Apr
+Summer season is Mon-28-May - Sun-09-Sep
+Typical summer week begins Mon-30-Jul
+Autumn season is Mon-10-Sep - Sun-11-Nov
+Typical autumn week begins Mon-24-Sep
+Winter season is Mon-12-Nov - Mon-31-Dec
+Typical winter week begins Mon-03-Dec
+*help_end
+*item
+*name	Wuhan Hubei CHN
+*aide	Wuhan Hubei CHN was sourced from DoE
+*dbfl	/usr/esru/es-r/climate/Wuhan
+*avail	ONLINE
+*winter_s  1  1 18  3 12 11 31 12
+*spring_s 19  3 13  5  3  9 11 11
+*summer_s 14  5  2  9
+*winter_t  5  2 11  2 17 12 23 12
+*spring_t 16  4 22  4 29 10  4 11
+*summer_t 18  6 24  6
+*help_start
+Climate is Wuhan Hubei CHN
+ Location: 30.62N  5.87W : 2001
+ Month    Minimum  Time          Maximum  Time         Mean
+ Jan     -3.9 @ 6h00 Wed-24       16.6 @15h00 Sun-28     4.6
+ Feb     -1.7 @ 6h00 Sat-24       16.9 @15h00 Thu-22     5.4
+ Mar      0.8 @ 5h00 Tue-06       30.4 @15h00 Fri-30    11.0
+ Apr      6.1 @ 5h00 Wed-11       29.4 @15h00 Wed-18    17.3
+ May     10.8 @ 5h00 Thu-10       34.3 @15h00 Sun-20    22.0
+ Jun     18.0 @10h00 Fri-01       33.7 @15h00 Tue-19    26.2
+ Jul     20.5 @ 6h00 Tue-10       38.8 @16h00 Tue-31    29.7
+ Aug     23.2 @17h00 Fri-03       36.5 @15h00 Wed-01    28.6
+ Sep     17.2 @22h00 Fri-28       35.8 @15h00 Mon-03    24.3
+ Oct     11.4 @ 6h00 Sun-28       31.4 @15h00 Mon-01    18.4
+ Nov      3.1 @ 5h00 Sat-10       30.4 @15h00 Fri-02    12.2
+ Dec     -2.6 @ 7h00 Wed-26       14.9 @15h00 Sun-30     6.7
+ Annual  -3.9 @ 6h00 Wed-24-Jan   38.8 @16h00 Tue-31-Jul    17.3
+ ---Seasons & typical periods---
+Winter season is Mon-01-Jan - Sun-18-Mar
+Typical winter week begins Mon-05-Feb
+Spring season is Mon-19-Mar - Sun-13-May
+Typical spring week begins Mon-16-Apr
+Summer season is Mon-14-May - Sun-02-Sep
+Typical summer week begins Mon-18-Jun
+Autumn season is Mon-03-Sep - Sun-11-Nov
+Typical autumn week begins Mon-29-Oct
+Winter season is Mon-12-Nov - Mon-31-Dec
+Typical winter week begins Mon-17-Dec
+*help_end
+*item
+*name	Xi'an Shaanxi CHN
+*aide	Xi'an Shaanxi CHN was sourced from DoE
+*dbfl	/usr/esru/es-r/climate/Xian
+*avail	ONLINE
+*winter_s  1  1  4  3 26 11 31 12
+*spring_s  5  3  6  5 24  9 25 11
+*summer_s  7  5 23  9
+*winter_t 29  1  4  2 24 12 30 12
+*spring_t 26  3  1  4 22 10 28 10
+*summer_t 20  8 26  8
+*help_start
+Climate is Xi'an Shaanxi CHN
+ Location: 34.30N 11.07W : 2001
+ Month    Minimum  Time          Maximum  Time         Mean
+ Jan     -7.0 @ 9h00 Tue-09       12.2 @18h00 Sat-27    -0.4
+ Feb     -5.3 @ 9h00 Fri-09       17.8 @17h00 Wed-14     2.2
+ Mar     -2.0 @ 5h00 Wed-14       22.1 @18h00 Mon-19     8.1
+ Apr      5.9 @ 8h00 Tue-10       28.9 @17h00 Mon-30    15.3
+ May     12.0 @ 7h00 Sat-19       31.4 @17h00 Tue-29    20.9
+ Jun     16.5 @ 7h00 Fri-08       37.2 @18h00 Thu-28    24.7
+ Jul     19.1 @ 6h00 Fri-06       37.9 @18h00 Tue-31    26.7
+ Aug     17.6 @ 3h00 Mon-27       34.7 @17h00 Fri-17    26.6
+ Sep     13.3 @ 8h00 Fri-07       33.2 @17h00 Sun-16    20.3
+ Oct      6.4 @ 8h00 Fri-26       27.0 @17h00 Tue-02    14.7
+ Nov     -1.4 @ 8h00 Tue-27       18.0 @15h00 Sat-24     8.2
+ Dec     -5.6 @ 8h00 Sun-09       10.0 @17h00 Mon-17     1.3
+ Annual  -7.0 @ 9h00 Tue-09-Jan   37.9 @18h00 Tue-31-Jul    14.1
+ ---Seasons & typical periods---
+Winter season is Mon-01-Jan - Sun-04-Mar
+Typical winter week begins Mon-29-Jan
+Spring season is Mon-05-Mar - Sun-06-May
+Typical spring week begins Mon-26-Mar
+Summer season is Mon-07-May - Sun-23-Sep
+Typical summer week begins Mon-20-Aug
+Autumn season is Mon-24-Sep - Sun-25-Nov
+Typical autumn week begins Mon-22-Oct
+Winter season is Mon-26-Nov - Mon-31-Dec
+Typical winter week begins Mon-24-Dec
+*help_end
+*item
+*name	Xining Qinghai CHN
+*aide	Xining Qinghai CHN was sourced from DoE
+*dbfl	/usr/esru/es-r/climate/Xining
+*avail	ONLINE
+*winter_s  1  1  4  3 19 11 31 12
+*spring_s  5  3  6  5 10  9 18 11
+*summer_s  7  5  9  9
+*winter_t 29  1  4  2 24 12 30 12
+*spring_t 16  4 22  4 22 10 28 10
+*summer_t  6  8 12  8
+*help_start
+Climate is Xining Qinghai CHN
+ Location: 55.90N  4.15W : 2001
+ Month    Minimum  Time          Maximum  Time         Mean
+ Jan    -18.2 @ 7h00 Tue-09        7.7 @15h00 Sun-21    -6.9
+ Feb    -17.9 @ 7h00 Thu-01       15.9 @15h00 Tue-13    -4.8
+ Mar    -11.4 @ 7h00 Tue-06       26.2 @16h00 Thu-29     2.3
+ Apr     -3.8 @ 6h00 Fri-13       25.8 @15h00 Sun-15     8.2
+ May      1.1 @ 6h00 Sun-06       26.4 @16h00 Sun-27    12.1
+ Jun      6.1 @ 5h00 Fri-08       27.2 @15h00 Fri-01    15.6
+ Jul      7.3 @ 5h00 Wed-11       30.7 @17h00 Fri-20    17.7
+ Aug      4.9 @ 6h00 Sat-18       30.5 @15h00 Sat-25    16.0
+ Sep     -0.5 @ 7h00 Sat-22       26.2 @17h00 Sat-01    11.9
+ Oct     -6.0 @ 7h00 Sat-20       17.1 @15h00 Thu-25     5.9
+ Nov    -12.1 @ 7h00 Sat-24       14.1 @15h00 Fri-16    -1.2
+ Dec    -18.1 @ 7h00 Fri-21        9.6 @15h00 Sun-02    -6.3
+ Annual -18.2 @ 7h00 Tue-09-Jan   30.7 @17h00 Fri-20-Jul     5.9
+ ---Seasons & typical periods---
+Winter season is Mon-01-Jan - Sun-04-Mar
+Typical winter week begins Mon-29-Jan
+Spring season is Mon-05-Mar - Sun-06-May
+Typical spring week begins Mon-16-Apr
+Summer season is Mon-07-May - Sun-09-Sep
+Typical summer week begins Mon-06-Aug
+Autumn season is Mon-10-Sep - Sun-18-Nov
+Typical autumn week begins Mon-22-Oct
+Winter season is Mon-19-Nov - Mon-31-Dec
+Typical winter week begins Mon-24-Dec
+*help_end
+*item
+*name	Yinchuan Ningxia Hui CHN
+*aide	Yinchuan Ningxia Hui CHN was sourced from DoE
+*dbfl	/usr/esru/es-r/climate/Yinchuan
+*avail	ONLINE
+*winter_s  1  1 11  3 26 11 31 12
+*spring_s 12  3 13  5 10  9 25 11
+*summer_s 14  5  9  9
+*winter_t 22  1 28  1  3 12  9 12
+*spring_t  9  4 15  4 29 10  4 11
+*summer_t 18  6 24  6
+*help_start
+Climate is Yinchuan Ningxia Hui CHN
+ Location: 38.48N 13.78W : 2001
+ Month    Minimum  Time          Maximum  Time         Mean
+ Jan    -16.5 @10h00 Fri-05        8.2 @17h00 Wed-03    -6.0
+ Feb    -13.9 @ 9h00 Sun-11       10.0 @17h00 Sun-25    -2.0
+ Mar    -13.2 @ 8h00 Wed-14       20.3 @18h00 Fri-30     2.9
+ Apr     -2.4 @ 7h00 Tue-10       30.9 @17h00 Mon-30    11.9
+ May      3.0 @ 7h00 Tue-08       31.5 @17h00 Fri-25    16.8
+ Jun     10.5 @ 5h00 Wed-06       32.2 @16h00 Tue-12    21.1
+ Jul     13.6 @ 7h00 Sun-01       33.9 @18h00 Fri-20    23.7
+ Aug     12.7 @ 8h00 Tue-28       32.0 @17h00 Fri-10    22.1
+ Sep      2.1 @ 8h00 Sat-29       30.3 @17h00 Sun-02    16.1
+ Oct     -3.1 @ 8h00 Tue-16       23.2 @17h00 Wed-31    10.1
+ Nov     -7.4 @ 8h00 Mon-26       14.3 @17h00 Wed-07     2.2
+ Dec    -15.2 @ 9h00 Fri-28        4.7 @15h00 Mon-31    -5.4
+ Annual -16.5 @10h00 Fri-05-Jan   33.9 @18h00 Fri-20-Jul     9.5
+ ---Seasons & typical periods---
+Winter season is Mon-01-Jan - Sun-11-Mar
+Typical winter week begins Mon-22-Jan
+Spring season is Mon-12-Mar - Sun-13-May
+Typical spring week begins Mon-09-Apr
+Summer season is Mon-14-May - Sun-09-Sep
+Typical summer week begins Mon-18-Jun
+Autumn season is Mon-10-Sep - Sun-25-Nov
+Typical autumn week begins Mon-29-Oct
+Winter season is Mon-26-Nov - Mon-31-Dec
+Typical winter week begins Mon-03-Dec
+*help_end
+*item
+*name	Zhengzhou Henan CHN
+*aide	Zhengzhou Henan CHN was sourced from DoE
+*dbfl	/usr/esru/es-r/climate/Zhengzhou
+*avail	ONLINE
+*winter_s  1  1 11  3 12 11 31 12
+*spring_s 12  3  6  5 17  9 11 11
+*summer_s  7  5 16  9
+*winter_t  5  2 11  2 10 12 16 12
+*spring_t  2  4  8  4  1 10  7 10
+*summer_t  4  6 10  6
+*help_start
+Climate is Zhengzhou Henan CHN
+ Location: 34.72N  6.35W : 2001
+ Month    Minimum  Time          Maximum  Time         Mean
+ Jan     -9.1 @ 8h00 Fri-05       14.8 @15h00 Sat-13     1.5
+ Feb     -7.1 @ 8h00 Fri-09       15.7 @17h00 Tue-20     3.4
+ Mar     -2.4 @ 8h00 Mon-26       22.2 @16h00 Sun-18     8.1
+ Apr     -1.1 @ 7h00 Tue-03       28.6 @14h00 Mon-30    15.3
+ May     10.4 @ 5h00 Sat-19       37.1 @17h00 Sun-27    21.5
+ Jun     14.7 @ 6h00 Sat-02       37.2 @18h00 Sat-16    25.9
+ Jul     17.5 @ 7h00 Thu-26       36.3 @16h00 Thu-05    27.0
+ Aug     19.4 @ 7h00 Thu-23       32.8 @15h00 Mon-20    25.7
+ Sep     13.7 @ 7h00 Thu-06       34.3 @16h00 Mon-17    21.6
+ Oct      4.0 @ 8h00 Fri-26       27.3 @17h00 Tue-02    15.3
+ Nov     -2.0 @ 8h00 Sun-18       21.3 @16h00 Sat-03     7.5
+ Dec     -6.7 @ 8h00 Thu-06       13.5 @16h00 Sun-30     2.9
+ Annual  -9.1 @ 8h00 Fri-05-Jan   37.2 @18h00 Sat-16-Jun    14.7
+ ---Seasons & typical periods---
+Winter season is Mon-01-Jan - Sun-11-Mar
+Typical winter week begins Mon-05-Feb
+Spring season is Mon-12-Mar - Sun-06-May
+Typical spring week begins Mon-02-Apr
+Summer season is Mon-07-May - Sun-16-Sep
+Typical summer week begins Mon-04-Jun
+Autumn season is Mon-17-Sep - Sun-11-Nov
+Typical autumn week begins Mon-01-Oct
+Winter season is Mon-12-Nov - Mon-31-Dec
+Typical winter week begins Mon-10-Dec
+*help_end
+*item
+*name	Zhengzhou Henan CHN
+*aide	Zhengzhou Henan CHN was sourced from DoE
+*dbfl	/usr/esru/es-r/climate/Zhengzhou
+*avail	ONLINE
+*winter_s  1  1 11  3 12 11 31 12
+*spring_s 12  3  6  5 17  9 11 11
+*summer_s  7  5 16  9
+*winter_t  5  2 11  2 10 12 16 12
+*spring_t  2  4  8  4  1 10  7 10
+*summer_t  4  6 10  6
+*help_start
+Climate is Zhengzhou Henan CHN
+ Location: 34.72N  6.35W : 2001
+ Month    Minimum  Time          Maximum  Time         Mean
+ Jan     -9.1 @ 8h00 Fri-05       14.8 @15h00 Sat-13     1.5
+ Feb     -7.1 @ 8h00 Fri-09       15.7 @17h00 Tue-20     3.4
+ Mar     -2.4 @ 8h00 Mon-26       22.2 @16h00 Sun-18     8.1
+ Apr     -1.1 @ 7h00 Tue-03       28.6 @14h00 Mon-30    15.3
+ May     10.4 @ 5h00 Sat-19       37.1 @17h00 Sun-27    21.5
+ Jun     14.7 @ 6h00 Sat-02       37.2 @18h00 Sat-16    25.9
+ Jul     17.5 @ 7h00 Thu-26       36.3 @16h00 Thu-05    27.0
+ Aug     19.4 @ 7h00 Thu-23       32.8 @15h00 Mon-20    25.7
+ Sep     13.7 @ 7h00 Thu-06       34.3 @16h00 Mon-17    21.6
+ Oct      4.0 @ 8h00 Fri-26       27.3 @17h00 Tue-02    15.3
+ Nov     -2.0 @ 8h00 Sun-18       21.3 @16h00 Sat-03     7.5
+ Dec     -6.7 @ 8h00 Thu-06       13.5 @16h00 Sun-30     2.9
+ Annual  -9.1 @ 8h00 Fri-05-Jan   37.2 @18h00 Sat-16-Jun    14.7
+ ---Seasons & typical periods---
+Winter season is Mon-01-Jan - Sun-11-Mar
+Typical winter week begins Mon-05-Feb
+Spring season is Mon-12-Mar - Sun-06-May
+Typical spring week begins Mon-02-Apr
+Summer season is Mon-07-May - Sun-16-Sep
+Typical summer week begins Mon-04-Jun
+Autumn season is Mon-17-Sep - Sun-11-Nov
+Typical autumn week begins Mon-01-Oct
+Winter season is Mon-12-Nov - Mon-31-Dec
+Typical winter week begins Mon-10-Dec
+*help_end
+*item
+*end

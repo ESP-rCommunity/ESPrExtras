@@ -1,0 +1,40 @@
+*item
+*name	Taiyuan Shanxi CHN
+*aide	Taiyuan Shanxi CHN was sourced from DoE
+*dbfl	
+*avail	OFFLINE
+*winter_s  1  1 25  2 19 11 31 12
+*spring_s 26  2 22  4 10  9 18 11
+*summer_s 23  4  9  9
+*winter_t 29  1  4  2 10 12 16 12
+*spring_t 26  3  1  4 15 10 21 10
+*summer_t 21  5 27  5
+*help_start
+Climate is Taiyuan Shanxi CHN
+ Location: 37.78N  7.45W : 2001
+ Month    Minimum  Time          Maximum  Time         Mean
+ Jan    -17.1 @ 8h00 Fri-05        9.7 @16h00 Wed-31    -4.3
+ Feb    -16.6 @ 9h00 Mon-05       12.5 @16h00 Sun-18    -0.5
+ Mar     -5.8 @ 8h00 Sun-11       18.4 @16h00 Sat-31     6.1
+ Apr     -1.2 @ 7h00 Wed-11       29.6 @18h00 Wed-18    12.6
+ May      7.5 @ 7h00 Tue-08       30.9 @16h00 Fri-25    18.7
+ Jun      9.7 @ 1h00 Fri-01       33.5 @14h00 Sun-24    21.6
+ Jul     13.4 @ 6h00 Mon-02       34.2 @17h00 Mon-09    24.0
+ Aug     14.2 @ 7h00 Tue-21       31.7 @15h00 Tue-07    22.2
+ Sep      6.3 @ 7h00 Fri-07       31.3 @18h00 Sat-01    17.7
+ Oct     -3.7 @ 7h00 Fri-26       27.3 @17h00 Wed-03    10.1
+ Nov     -9.2 @ 9h00 Tue-27       13.7 @16h00 Sun-04     3.3
+ Dec    -16.3 @ 8h00 Thu-20       11.2 @17h00 Wed-12    -2.2
+ Annual -17.1 @ 8h00 Fri-05-Jan   34.2 @17h00 Mon-09-Jul    10.8
+ ---Seasons & typical periods---
+Winter season is Mon-01-Jan - Sun-25-Feb
+Typical winter week begins Mon-29-Jan
+Spring season is Mon-26-Feb - Sun-22-Apr
+Typical spring week begins Mon-26-Mar
+Summer season is Mon-23-Apr - Sun-09-Sep
+Typical summer week begins Mon-21-May
+Autumn season is Mon-10-Sep - Sun-18-Nov
+Typical autumn week begins Mon-15-Oct
+Winter season is Mon-19-Nov - Mon-31-Dec
+Typical winter week begins Mon-10-Dec
+*help_end

@@ -1,0 +1,40 @@
+*item
+*name	Fuzhou Fujian CHN
+*aide	Fuzhou Fujian CHN sourced from DoE
+*dbfl	
+*avail	OFFLINE
+*winter_s  1  1 11  2 10 12 31 12
+*spring_s 12  2 22  4  8 10  9 12
+*summer_s 23  4  7 10
+*winter_t  8  1 14  1 17 12 23 12
+*spring_t 26  2  4  3 19 11 25 11
+*summer_t 18  6 24  6
+*help_start
+Climate is Fuzhou Fujian CHN
+ Location: 26.08N  0.72W : 2001
+ Month    Minimum  Time          Maximum  Time         Mean
+ Jan      4.6 @ 8h00 Mon-01       23.2 @14h00 Sun-07    11.4
+ Feb      6.0 @ 7h00 Mon-19       27.0 @15h00 Sun-25    11.7
+ Mar      7.4 @ 8h00 Thu-22       27.7 @15h00 Fri-30    13.9
+ Apr     10.9 @ 7h00 Thu-12       33.8 @16h00 Sun-29    18.3
+ May     14.4 @ 7h00 Tue-01       33.5 @15h00 Mon-07    23.2
+ Jun     16.6 @ 6h00 Thu-14       38.0 @15h00 Sun-03    26.3
+ Jul     24.4 @ 3h00 Wed-11       37.2 @15h00 Sun-01    29.0
+ Aug     23.2 @23h00 Fri-31       37.3 @16h00 Wed-22    28.8
+ Sep     20.4 @ 7h00 Sun-23       32.6 @16h00 Sat-15    26.1
+ Oct     16.0 @ 6h00 Sun-28       33.1 @15h00 Wed-31    22.8
+ Nov      8.4 @ 6h00 Thu-29       27.2 @16h00 Thu-22    18.2
+ Dec      3.8 @ 8h00 Mon-24       26.4 @17h00 Mon-03    13.6
+ Annual   3.8 @ 8h00 Mon-24-Dec   38.0 @15h00 Sun-03-Jun    20.3
+ ---Seasons & typical periods---
+Winter season is Mon-01-Jan - Sun-11-Feb
+Typical winter week begins Mon-08-Jan
+Spring season is Mon-12-Feb - Sun-22-Apr
+Typical spring week begins Mon-26-Feb
+Summer season is Mon-23-Apr - Sun-07-Oct
+Typical summer week begins Mon-18-Jun
+Autumn season is Mon-08-Oct - Sun-09-Dec
+Typical autumn week begins Mon-19-Nov
+Winter season is Mon-10-Dec - Mon-31-Dec
+Typical winter week begins Mon-17-Dec
+*help_end

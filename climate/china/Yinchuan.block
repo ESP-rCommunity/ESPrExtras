@@ -1,0 +1,40 @@
+*item
+*name	Yinchuan Ningxia Hui CHN
+*aide	Yinchuan Ningxia Hui CHN was sourced from DoE
+*dbfl	
+*avail	OFFLINE
+*winter_s  1  1 11  3 26 11 31 12
+*spring_s 12  3 13  5 10  9 25 11
+*summer_s 14  5  9  9
+*winter_t 22  1 28  1  3 12  9 12
+*spring_t  9  4 15  4 29 10  4 11
+*summer_t 18  6 24  6
+*help_start
+Climate is Yinchuan Ningxia Hui CHN
+ Location: 38.48N 13.78W : 2001
+ Month    Minimum  Time          Maximum  Time         Mean
+ Jan    -16.5 @10h00 Fri-05        8.2 @17h00 Wed-03    -6.0
+ Feb    -13.9 @ 9h00 Sun-11       10.0 @17h00 Sun-25    -2.0
+ Mar    -13.2 @ 8h00 Wed-14       20.3 @18h00 Fri-30     2.9
+ Apr     -2.4 @ 7h00 Tue-10       30.9 @17h00 Mon-30    11.9
+ May      3.0 @ 7h00 Tue-08       31.5 @17h00 Fri-25    16.8
+ Jun     10.5 @ 5h00 Wed-06       32.2 @16h00 Tue-12    21.1
+ Jul     13.6 @ 7h00 Sun-01       33.9 @18h00 Fri-20    23.7
+ Aug     12.7 @ 8h00 Tue-28       32.0 @17h00 Fri-10    22.1
+ Sep      2.1 @ 8h00 Sat-29       30.3 @17h00 Sun-02    16.1
+ Oct     -3.1 @ 8h00 Tue-16       23.2 @17h00 Wed-31    10.1
+ Nov     -7.4 @ 8h00 Mon-26       14.3 @17h00 Wed-07     2.2
+ Dec    -15.2 @ 9h00 Fri-28        4.7 @15h00 Mon-31    -5.4
+ Annual -16.5 @10h00 Fri-05-Jan   33.9 @18h00 Fri-20-Jul     9.5
+ ---Seasons & typical periods---
+Winter season is Mon-01-Jan - Sun-11-Mar
+Typical winter week begins Mon-22-Jan
+Spring season is Mon-12-Mar - Sun-13-May
+Typical spring week begins Mon-09-Apr
+Summer season is Mon-14-May - Sun-09-Sep
+Typical summer week begins Mon-18-Jun
+Autumn season is Mon-10-Sep - Sun-25-Nov
+Typical autumn week begins Mon-29-Oct
+Winter season is Mon-26-Nov - Mon-31-Dec
+Typical winter week begins Mon-03-Dec
+*help_end

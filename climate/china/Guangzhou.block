@@ -1,0 +1,40 @@
+*item
+*name	Guangzhou CHN
+*aide	Guangzho CHN sourced from DoE
+*dbfl	
+*avail	OFFLINE
+*winter_s  1  1 18  3 24 11 31 12
+*spring_s 19  3 15  4  1 10 23 11
+*summer_s 16  4 30  9
+*winter_t 29  1  4  2 15 12 21 12
+*spring_t 26  3  1  4 29 10  4 11
+*summer_t 25  6  1  7
+*help_start
+Climate is GUANGZHOU - CHN
+ Location: 23.13N  6.68W : 2001
+ Month    Minimum  Time          Maximum  Time         Mean
+ Jan      6.0 @ 6h00 Sat-06       24.0 @15h00 Sun-21    14.1
+ Feb      6.5 @ 5h00 Sat-17       24.6 @17h00 Tue-20    14.2
+ Mar      7.5 @ 5h00 Sat-10       29.0 @16h00 Sat-31    17.1
+ Apr     14.0 @ 6h00 Sat-14       32.0 @15h00 Thu-19    22.2
+ May     16.2 @ 6h00 Tue-01       34.0 @16h00 Thu-31    25.4
+ Jun     21.0 @ 1h00 Sat-09       35.2 @17h00 Tue-05    27.9
+ Jul     24.9 @20h00 Fri-13       36.0 @12h00 Thu-19    28.9
+ Aug     24.0 @ 3h00 Fri-03       37.0 @16h00 Wed-29    28.6
+ Sep     21.0 @ 6h00 Fri-28       36.0 @16h00 Tue-11    27.6
+ Oct     12.9 @ 2h00 Wed-31       32.1 @14h00 Tue-16    24.4
+ Nov      9.0 @ 6h00 Thu-29       30.3 @14h00 Thu-08    20.1
+ Dec      8.0 @ 7h00 Sat-22       25.0 @16h00 Sun-16    16.0
+ Annual   6.0 @ 6h00 Sat-06-Jan   37.0 @16h00 Wed-29-Aug    22.3
+ ---Seasons & typical periods---
+Winter season is Mon-01-Jan - Sun-18-Mar
+Typical winter week begins Mon-29-Jan
+Spring season is Mon-19-Mar - Sun-15-Apr
+Typical spring week begins Mon-26-Mar
+Summer season is Mon-16-Apr - Sun-30-Sep
+Typical summer week begins Mon-25-Jun
+Autumn season is Mon-01-Oct - Fri-23-Nov
+Typical autumn week begins Mon-29-Oct
+Winter season is Sat-24-Nov - Mon-31-Dec
+Typical winter week begins Sat-15-Dec
+*help_end

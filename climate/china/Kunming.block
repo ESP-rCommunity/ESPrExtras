@@ -1,0 +1,40 @@
+*item
+*name	Kunming Yunnan CHN
+*aide	Kunming Yunnan CHN was sourced from DoE
+*dbfl	
+*avail	OFFLINE
+*winter_s  1  1  4  3 12 11 31 12
+*spring_s  5  3  6  5 17  9 11 11
+*summer_s  7  5 16  9
+*winter_t 29  1  4  2  3 12  9 12
+*spring_t 26  3  1  4 22 10 28 10
+*summer_t  4  6 10  6
+*help_start
+Climate is Kunming Yunnan CHN
+ Location: 55.90N  4.15W : 2001
+ Month    Minimum  Time          Maximum  Time         Mean
+ Jan      0.8 @ 8h00 Sat-20       17.8 @17h00 Tue-02     8.9
+ Feb      0.1 @10h00 Wed-21       23.6 @18h00 Thu-15    10.4
+ Mar      2.6 @ 8h00 Sun-04       26.3 @17h00 Fri-23    14.9
+ Apr      5.0 @ 4h00 Sun-22       30.2 @17h00 Tue-17    17.7
+ May     12.3 @ 7h00 Sat-05       27.1 @18h00 Tue-29    18.8
+ Jun     13.4 @ 8h00 Fri-01       28.8 @17h00 Thu-14    20.1
+ Jul     15.5 @ 8h00 Tue-31       26.4 @18h00 Tue-31    20.0
+ Aug     13.9 @ 8h00 Wed-01       27.2 @17h00 Fri-03    19.7
+ Sep     10.9 @ 6h00 Mon-24       28.2 @16h00 Fri-07    18.2
+ Oct     10.1 @ 9h00 Fri-26       25.8 @17h00 Wed-03    16.5
+ Nov      2.7 @ 9h00 Sun-25       22.7 @17h00 Sun-04    11.6
+ Dec     -2.1 @ 9h00 Tue-25       19.2 @17h00 Sun-30     8.4
+ Annual  -2.1 @ 9h00 Tue-25-Dec   30.2 @17h00 Tue-17-Apr    15.5
+ ---Seasons & typical periods---
+Winter season is Mon-01-Jan - Sun-04-Mar
+Typical winter week begins Mon-29-Jan
+Spring season is Mon-05-Mar - Sun-06-May
+Typical spring week begins Mon-26-Mar
+Summer season is Mon-07-May - Sun-16-Sep
+Typical summer week begins Mon-04-Jun
+Autumn season is Mon-17-Sep - Sun-11-Nov
+Typical autumn week begins Mon-22-Oct
+Winter season is Mon-12-Nov - Mon-31-Dec
+Typical winter week begins Mon-03-Dec
+*help_end

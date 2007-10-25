@@ -1,0 +1,40 @@
+*item
+*name	Lhasa Tibet CHN
+*aide	Lhasa Tibet CHN was sourced from DoE
+*dbfl	
+*avail	OFFLINE
+*winter_s  1  1  4  3  5 11 31 12
+*spring_s  5  3  6  5  3  9  4 11
+*summer_s  7  5  2  9
+*winter_t 29  1  4  2 19 11 25 11
+*spring_t  2  4  8  4 10  9 16  9
+*summer_t 21  5 27  5
+*help_start
+Climate is Lhasa Tibet CHN
+ Location: 55.90N  4.15W : 2001
+ Month    Minimum  Time          Maximum  Time         Mean
+ Jan    -13.3 @ 7h00 Wed-03       10.2 @15h00 Thu-11    -1.5
+ Feb     -7.8 @ 7h00 Fri-16       13.7 @17h00 Tue-13     1.9
+ Mar     -7.5 @ 7h00 Sat-03       16.9 @16h00 Sat-17     4.4
+ Apr     -3.3 @ 7h00 Wed-04       19.5 @17h00 Sat-07     8.8
+ May      1.5 @ 7h00 Wed-02       25.3 @16h00 Wed-23    12.5
+ Jun      6.6 @ 6h00 Mon-25       27.9 @16h00 Tue-12    16.4
+ Jul      7.6 @ 6h00 Mon-02       26.2 @17h00 Fri-06    15.7
+ Aug      7.4 @13h00 Sun-19       25.8 @17h00 Wed-08    15.2
+ Sep      4.4 @ 5h00 Sun-23       21.7 @16h00 Mon-24    13.1
+ Oct     -3.6 @ 7h00 Tue-30       22.1 @16h00 Sun-07     9.3
+ Nov     -6.9 @ 7h00 Mon-26       18.7 @16h00 Sat-03     3.9
+ Dec    -10.4 @ 7h00 Sat-29       13.3 @16h00 Sun-02    -0.6
+ Annual -13.3 @ 7h00 Wed-03-Jan   27.9 @16h00 Tue-12-Jun     8.3
+ ---Seasons & typical periods---
+Winter season is Mon-01-Jan - Sun-04-Mar
+Typical winter week begins Mon-29-Jan
+Spring season is Mon-05-Mar - Sun-06-May
+Typical spring week begins Mon-02-Apr
+Summer season is Mon-07-May - Sun-02-Sep
+Typical summer week begins Mon-21-May
+Autumn season is Mon-03-Sep - Sun-04-Nov
+Typical autumn week begins Mon-10-Sep
+Winter season is Mon-05-Nov - Mon-31-Dec
+Typical winter week begins Mon-19-Nov
+*help_end

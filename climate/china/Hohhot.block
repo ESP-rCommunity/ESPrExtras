@@ -1,0 +1,40 @@
+*item
+*name	Hohhot Nei Mongol CHN
+*aide	Hohhot Nei Mongol CHN  was sourced from DoE
+*dbfl	
+*avail	OFFLINE
+*winter_s  1  1  4  3 12 11 31 12
+*spring_s  5  3 13  5  3  9 11 11
+*summer_s 14  5  2  9
+*winter_t  5  2 11  2 26 11  2 12
+*spring_t 26  3  1  4  8 10 14 10
+*summer_t  6  8 12  8
+*help_start
+Climate is Hohhot Nei Mongol CHN
+ Location: 40.82N  8.32W : 2001
+ Month    Minimum  Time          Maximum  Time         Mean
+ Jan    -20.7 @ 5h00 Mon-01       -2.2 @15h00 Sun-07   -12.2
+ Feb    -23.1 @ 7h00 Sat-03        6.0 @16h00 Wed-28    -8.4
+ Mar    -13.7 @ 7h00 Thu-01       13.6 @16h00 Wed-28    -0.8
+ Apr     -6.2 @ 5h00 Sun-08       25.0 @15h00 Fri-13     9.0
+ May      1.9 @ 5h00 Tue-08       31.7 @17h00 Wed-30    15.9
+ Jun      7.6 @ 4h00 Sat-09       34.6 @16h00 Thu-21    21.3
+ Jul     13.2 @ 5h00 Sat-21       32.9 @16h00 Sun-01    22.3
+ Aug     11.9 @ 5h00 Thu-09       30.4 @15h00 Wed-01    20.4
+ Sep      3.0 @ 6h00 Thu-20       26.6 @15h00 Sun-23    15.3
+ Oct     -7.6 @ 7h00 Mon-29       21.2 @15h00 Mon-08     6.9
+ Nov    -15.6 @ 7h00 Thu-29       11.8 @15h00 Sat-10    -2.8
+ Dec    -18.9 @ 7h00 Tue-18        4.4 @15h00 Sat-01    -9.0
+ Annual -23.1 @ 7h00 Sat-03-Feb   34.6 @16h00 Thu-21-Jun     6.6
+ ---Seasons & typical periods---
+Winter season is Mon-01-Jan - Sun-04-Mar
+Typical winter week begins Mon-05-Feb
+Spring season is Mon-05-Mar - Sun-13-May
+Typical spring week begins Mon-26-Mar
+Summer season is Mon-14-May - Sun-02-Sep
+Typical summer week begins Mon-06-Aug
+Autumn season is Mon-03-Sep - Sun-11-Nov
+Typical autumn week begins Mon-08-Oct
+Winter season is Mon-12-Nov - Mon-31-Dec
+Typical winter week begins Mon-26-Nov
+*help_end

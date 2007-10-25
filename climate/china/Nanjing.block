@@ -1,0 +1,40 @@
+*item
+*name	Nanjing Jiangsu CHN
+*aide	Nanjing Jiangsu CHN was sourced from DoE
+*dbfl	
+*avail	OFFLINE
+*winter_s  1  1  4  3 12 11 31 12
+*spring_s  5  3  6  5  3  9 11 11
+*summer_s  7  5  2  9
+*winter_t 12  2 18  2 24 12 30 12
+*spring_t  2  4  8  4  1 10  7 10
+*summer_t 20  8 26  8
+*help_start
+Climate is Nanjing Jiangsu CHN
+ Location: 32.83N  1.20W : 2001
+ Month    Minimum  Time          Maximum  Time         Mean
+ Jan     -5.6 @ 4h00 Thu-25       14.0 @15h00 Sat-13     2.2
+ Feb     -3.4 @ 8h00 Sat-03       18.1 @16h00 Thu-22     4.5
+ Mar     -1.0 @ 7h00 Fri-02       19.6 @14h00 Wed-21     8.9
+ Apr      6.5 @ 7h00 Tue-03       25.6 @16h00 Mon-23    15.7
+ May      9.7 @ 6h00 Sat-05       31.7 @15h00 Tue-08    20.6
+ Jun     16.8 @ 6h00 Sun-03       35.4 @16h00 Fri-29    24.8
+ Jul     20.7 @ 1h00 Fri-06       37.2 @16h00 Fri-20    28.6
+ Aug     21.1 @ 7h00 Tue-21       35.1 @15h00 Wed-08    27.7
+ Sep     17.1 @ 5h00 Mon-17       32.2 @16h00 Sun-02    23.5
+ Oct      4.4 @ 7h00 Tue-30       31.9 @16h00 Mon-15    16.9
+ Nov     -1.4 @ 6h00 Thu-29       20.8 @16h00 Wed-07    10.5
+ Dec     -3.9 @ 8h00 Thu-20       15.9 @15h00 Mon-24     4.9
+ Annual  -5.6 @ 4h00 Thu-25-Jan   37.2 @16h00 Fri-20-Jul    15.8
+ ---Seasons & typical periods---
+Winter season is Mon-01-Jan - Sun-04-Mar
+Typical winter week begins Mon-12-Feb
+Spring season is Mon-05-Mar - Sun-06-May
+Typical spring week begins Mon-02-Apr
+Summer season is Mon-07-May - Sun-02-Sep
+Typical summer week begins Mon-20-Aug
+Autumn season is Mon-03-Sep - Sun-11-Nov
+Typical autumn week begins Mon-01-Oct
+Winter season is Mon-12-Nov - Mon-31-Dec
+Typical winter week begins Mon-24-Dec
+*help_end

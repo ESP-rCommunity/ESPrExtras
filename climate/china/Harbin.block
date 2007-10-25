@@ -1,0 +1,40 @@
+*item
+*name	Harbin Heilongjiang CHN
+*aide	Harbin Heilongjiang CHN sourced from DoE
+*dbfl	
+*avail	OFFLINE
+*winter_s  1  1 25  2  1 11 31 12
+*spring_s 26  2 22  4 24  9 31 10
+*summer_s 23  4 23  9
+*winter_t  5  2 11  2 29 11  5 12
+*spring_t 26  3  1  4  1 10  7 10
+*summer_t 21  5 27  5
+*help_start
+Climate is Harbin Heilongjiang CHN
+ Location: 45.75N  6.77E : 2001
+ Month    Minimum  Time          Maximum  Time         Mean
+ Jan    -28.7 @ 7h00 Tue-23       -3.8 @14h00 Mon-29   -18.8
+ Feb    -24.8 @ 6h00 Sat-17       -5.9 @15h00 Sun-25   -14.5
+ Mar    -17.6 @ 5h00 Fri-23       11.8 @15h00 Thu-08    -2.6
+ Apr     -6.6 @ 4h00 Fri-06       27.8 @16h00 Mon-30     7.8
+ May      1.0 @ 4h00 Tue-01       29.5 @15h00 Thu-24    14.3
+ Jun      8.3 @ 5h00 Sun-03       32.6 @15h00 Tue-12    20.0
+ Jul     11.7 @ 3h00 Sun-01       32.8 @15h00 Sun-22    22.9
+ Aug     11.4 @ 4h00 Fri-31       32.2 @15h00 Thu-16    21.0
+ Sep      2.1 @ 3h00 Fri-14       28.6 @15h00 Sat-01    14.7
+ Oct     -7.6 @ 6h00 Tue-23       20.9 @15h00 Fri-12     5.1
+ Nov    -27.6 @ 6h00 Fri-30        7.1 @21h00 Sun-04    -6.7
+ Dec    -26.8 @ 7h00 Sun-30        5.9 @24h00 Mon-03   -14.8
+ Annual -28.7 @ 7h00 Tue-23-Jan   32.8 @15h00 Sun-22-Jul     4.1
+ ---Seasons & typical periods---
+Winter season is Mon-01-Jan - Sun-25-Feb
+Typical winter week begins Mon-05-Feb
+Spring season is Mon-26-Feb - Sun-22-Apr
+Typical spring week begins Mon-26-Mar
+Summer season is Mon-23-Apr - Sun-23-Sep
+Typical summer week begins Mon-21-May
+Autumn season is Mon-24-Sep - Wed-31-Oct
+Typical autumn week begins Mon-01-Oct
+Winter season is Thu-01-Nov - Mon-31-Dec
+Typical winter week begins Thu-29-Nov
+*help_end

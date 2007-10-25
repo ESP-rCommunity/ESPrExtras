@@ -1,0 +1,40 @@
+*item
+*name	Beijing CHN
+*aide	Beijing CHN sourced from DoE
+*dbfl	
+*avail	OFFLINE
+*winter_s  1  1 25  2 19 11 31 12
+*spring_s 26  2  6  5 17  9 18 11
+*summer_s  7  5 16  9
+*winter_t 15  1 21  1  3 12  9 12
+*spring_t  9  4 15  4 22 10 28 10
+*summer_t  3  9  9  9
+*help_start
+Climate is BEIJING - CHN
+ Location: 39.80N  3.53W : 2001
+ Month    Minimum  Time          Maximum  Time         Mean
+ Jan    -14.0 @ 1h00 Wed-24        5.8 @14h00 Fri-19    -2.9
+ Feb    -12.0 @ 6h00 Thu-22        9.0 @15h00 Mon-05     0.0
+ Mar     -3.0 @ 7h00 Sun-11       16.0 @16h00 Sat-03     6.1
+ Apr      2.0 @ 6h00 Mon-02       27.0 @15h00 Sun-29    14.3
+ May      8.3 @ 5h00 Fri-04       34.0 @15h00 Sun-27    20.4
+ Jun     17.7 @ 5h00 Tue-05       37.4 @14h00 Sat-02    25.2
+ Jul     19.9 @ 5h00 Thu-19       35.0 @16h00 Sat-07    26.4
+ Aug     18.0 @ 5h00 Sat-18       33.4 @14h00 Fri-03    25.0
+ Sep     11.0 @ 5h00 Thu-20       31.0 @15h00 Sat-22    20.4
+ Oct      1.0 @ 6h00 Mon-29       26.0 @13h00 Mon-01    13.7
+ Nov     -6.3 @ 8h00 Mon-19       20.0 @13h00 Sat-03     4.8
+ Dec     -9.0 @ 6h00 Fri-14       10.5 @14h00 Fri-07    -0.5
+ Annual -14.0 @ 1h00 Wed-24-Jan   37.4 @14h00 Sat-02-Jun    12.8
+ ---Seasons & typical periods---
+Winter season is Mon-01-Jan - Sun-25-Feb
+Typical winter week begins Mon-15-Jan
+Spring season is Mon-26-Feb - Sun-06-May
+Typical spring week begins Mon-09-Apr
+Summer season is Mon-07-May - Sun-16-Sep
+Typical summer week begins Mon-03-Sep
+Autumn season is Mon-17-Sep - Sun-18-Nov
+Typical autumn week begins Mon-22-Oct
+Winter season is Mon-19-Nov - Mon-31-Dec
+Typical winter week begins Mon-03-Dec
+*help_end

@@ -1,0 +1,40 @@
+*item
+*name	Guiyang Guizhou CHN
+*aide	Guiyang Guizhou CHN sourced from DoE
+*dbfl	
+*avail	OFFLINE
+*winter_s  1  1 25  2 19 11 31 12
+*spring_s 26  2  8  4 17  9 18 11
+*summer_s  9  4 16  9
+*winter_t 29  1  4  2  3 12  9 12
+*spring_t 26  3  1  4  5 11 11 11
+*summer_t  7  5 13  5
+*help_start
+Climate is Guiyang Guizhou CHN
+ Location: 26.58N 13.27W : 2001
+ Month    Minimum  Time          Maximum  Time         Mean
+ Jan     -2.0 @10h00 Fri-12       18.5 @18h00 Mon-22     5.7
+ Feb      0.2 @24h00 Sun-25       25.7 @16h00 Fri-23     7.1
+ Mar      0.6 @ 1h00 Thu-01       25.8 @17h00 Sat-17    11.4
+ Apr      5.6 @ 5h00 Wed-04       32.4 @16h00 Sun-22    16.2
+ May     11.1 @ 7h00 Tue-22       28.7 @17h00 Wed-30    19.5
+ Jun     16.6 @ 7h00 Mon-11       30.8 @18h00 Tue-05    22.6
+ Jul     17.6 @24h00 Mon-02       33.5 @17h00 Tue-31    24.0
+ Aug     17.2 @ 8h00 Thu-23       31.8 @18h00 Wed-08    23.1
+ Sep     13.0 @ 8h00 Fri-21       32.3 @17h00 Thu-06    20.8
+ Oct      7.3 @ 5h00 Mon-29       27.1 @16h00 Tue-23    16.2
+ Nov      4.7 @ 4h00 Sat-17       24.4 @15h00 Sun-11    12.3
+ Dec     -0.2 @ 9h00 Sat-22       19.4 @16h00 Sun-09     6.9
+ Annual  -2.0 @10h00 Fri-12-Jan   33.5 @17h00 Tue-31-Jul    15.5
+ ---Seasons & typical periods---
+Winter season is Mon-01-Jan - Sun-25-Feb
+Typical winter week begins Mon-29-Jan
+Spring season is Mon-26-Feb - Sun-08-Apr
+Typical spring week begins Mon-26-Mar
+Summer season is Mon-09-Apr - Sun-16-Sep
+Typical summer week begins Mon-07-May
+Autumn season is Mon-17-Sep - Sun-18-Nov
+Typical autumn week begins Mon-05-Nov
+Winter season is Mon-19-Nov - Mon-31-Dec
+Typical winter week begins Mon-03-Dec
+*help_end

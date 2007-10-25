@@ -1,0 +1,40 @@
+*item
+*name	Xi'an Shaanxi CHN
+*aide	Xi'an Shaanxi CHN was sourced from DoE
+*dbfl	
+*avail	OFFLINE
+*winter_s  1  1  4  3 26 11 31 12
+*spring_s  5  3  6  5 24  9 25 11
+*summer_s  7  5 23  9
+*winter_t 29  1  4  2 24 12 30 12
+*spring_t 26  3  1  4 22 10 28 10
+*summer_t 20  8 26  8
+*help_start
+Climate is Xi'an Shaanxi CHN
+ Location: 34.30N 11.07W : 2001
+ Month    Minimum  Time          Maximum  Time         Mean
+ Jan     -7.0 @ 9h00 Tue-09       12.2 @18h00 Sat-27    -0.4
+ Feb     -5.3 @ 9h00 Fri-09       17.8 @17h00 Wed-14     2.2
+ Mar     -2.0 @ 5h00 Wed-14       22.1 @18h00 Mon-19     8.1
+ Apr      5.9 @ 8h00 Tue-10       28.9 @17h00 Mon-30    15.3
+ May     12.0 @ 7h00 Sat-19       31.4 @17h00 Tue-29    20.9
+ Jun     16.5 @ 7h00 Fri-08       37.2 @18h00 Thu-28    24.7
+ Jul     19.1 @ 6h00 Fri-06       37.9 @18h00 Tue-31    26.7
+ Aug     17.6 @ 3h00 Mon-27       34.7 @17h00 Fri-17    26.6
+ Sep     13.3 @ 8h00 Fri-07       33.2 @17h00 Sun-16    20.3
+ Oct      6.4 @ 8h00 Fri-26       27.0 @17h00 Tue-02    14.7
+ Nov     -1.4 @ 8h00 Tue-27       18.0 @15h00 Sat-24     8.2
+ Dec     -5.6 @ 8h00 Sun-09       10.0 @17h00 Mon-17     1.3
+ Annual  -7.0 @ 9h00 Tue-09-Jan   37.9 @18h00 Tue-31-Jul    14.1
+ ---Seasons & typical periods---
+Winter season is Mon-01-Jan - Sun-04-Mar
+Typical winter week begins Mon-29-Jan
+Spring season is Mon-05-Mar - Sun-06-May
+Typical spring week begins Mon-26-Mar
+Summer season is Mon-07-May - Sun-23-Sep
+Typical summer week begins Mon-20-Aug
+Autumn season is Mon-24-Sep - Sun-25-Nov
+Typical autumn week begins Mon-22-Oct
+Winter season is Mon-26-Nov - Mon-31-Dec
+Typical winter week begins Mon-24-Dec
+*help_end

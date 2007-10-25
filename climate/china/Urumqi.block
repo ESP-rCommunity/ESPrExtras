@@ -1,0 +1,40 @@
+*item
+*name	URUMQI - CHN
+*aide	URUMQI - CHN was sourced from DoE
+*dbfl	
+*avail	OFFLINE
+*winter_s  1  1 11  3 12 11 31 12
+*spring_s 12  3 27  5 10  9 11 11
+*summer_s 28  5  9  9
+*winter_t 29  1  4  2  3 12  9 12
+*spring_t 23  4 29  4 24  9 30  9
+*summer_t 30  7  5  8
+*help_start
+Climate is URUMQI - CHN
+ Location: 55.90N  4.15W : 2001
+ Month    Minimum  Time          Maximum  Time         Mean
+ Jan    -23.7 @ 8h00 Wed-31       -1.6 @14h00 Fri-05   -12.3
+ Feb    -21.2 @ 8h00 Sun-18        1.4 @14h00 Fri-02    -9.7
+ Mar    -12.2 @ 8h00 Mon-05       18.4 @17h00 Mon-26     0.2
+ Apr     -2.4 @ 8h00 Sat-21       30.0 @14h00 Tue-17     9.9
+ May      4.1 @11h00 Sat-19       30.8 @17h00 Thu-31    16.8
+ Jun      9.3 @23h00 Sun-17       32.9 @17h00 Sun-24    21.5
+ Jul     13.0 @14h00 Tue-31       36.3 @17h00 Fri-27    24.0
+ Aug     11.7 @ 8h00 Thu-16       33.6 @17h00 Wed-29    22.5
+ Sep      4.3 @ 8h00 Thu-27       28.7 @17h00 Thu-13    17.0
+ Oct     -3.0 @ 8h00 Wed-24       28.1 @17h00 Sat-06     8.1
+ Nov    -12.9 @ 5h00 Mon-26       11.6 @14h00 Sun-11    -1.5
+ Dec    -18.4 @ 8h00 Sat-22        3.9 @17h00 Fri-07    -8.6
+ Annual -23.7 @ 8h00 Wed-31-Jan   36.3 @17h00 Fri-27-Jul     7.4
+ ---Seasons & typical periods---
+Winter season is Mon-01-Jan - Sun-11-Mar
+Typical winter week begins Mon-29-Jan
+Spring season is Mon-12-Mar - Sun-27-May
+Typical spring week begins Mon-23-Apr
+Summer season is Mon-28-May - Sun-09-Sep
+Typical summer week begins Mon-30-Jul
+Autumn season is Mon-10-Sep - Sun-11-Nov
+Typical autumn week begins Mon-24-Sep
+Winter season is Mon-12-Nov - Mon-31-Dec
+Typical winter week begins Mon-03-Dec
+*help_end

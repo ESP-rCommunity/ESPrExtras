@@ -1,0 +1,40 @@
+*item
+*name	HONG KONG SAR CHN
+*aide	HONG KONG SAR CHN was sourced from DoE
+*dbfl	
+*avail	OFFLINE
+*winter_s  1  1  4  3 19 11 31 12
+*spring_s  5  3  6  5 24  9 18 11
+*summer_s  7  5 23  9
+*winter_t  5  2 11  2 10 12 16 12
+*spring_t 26  3  1  4 15 10 21 10
+*summer_t 14  5 20  5
+*help_start
+Climate is HONG KONG SAR CHN
+ Location: 22.32N  5.83W : 2001
+ Month    Minimum  Time          Maximum  Time         Mean
+ Jan      9.3 @ 6h00 Wed-31       22.5 @13h00 Mon-22    16.1
+ Feb     10.2 @21h00 Mon-19       23.3 @13h00 Tue-06    16.3
+ Mar     11.7 @ 7h00 Wed-07       26.4 @14h00 Sat-17    19.0
+ Apr     14.8 @ 4h00 Sun-01       30.1 @15h00 Sat-28    22.6
+ May     21.4 @ 3h00 Thu-24       31.3 @16h00 Tue-15    26.1
+ Jun     23.1 @ 5h00 Sun-03       32.5 @18h00 Sat-23    27.9
+ Jul     25.0 @11h00 Wed-18       32.8 @17h00 Sun-01    28.8
+ Aug     24.6 @ 5h00 Fri-10       32.7 @15h00 Wed-29    28.4
+ Sep     23.6 @ 6h00 Sun-23       32.8 @13h00 Thu-20    27.5
+ Oct     20.6 @ 7h00 Wed-31       31.0 @14h00 Wed-03    25.3
+ Nov     12.4 @ 7h00 Thu-29       27.8 @14h00 Tue-06    21.5
+ Dec      9.2 @ 8h00 Mon-17       24.8 @16h00 Mon-03    17.1
+ Annual   9.2 @ 8h00 Mon-17-Dec   32.8 @17h00 Sun-01-Jul    23.1
+ ---Seasons & typical periods---
+Winter season is Mon-01-Jan - Sun-04-Mar
+Typical winter week begins Mon-05-Feb
+Spring season is Mon-05-Mar - Sun-06-May
+Typical spring week begins Mon-26-Mar
+Summer season is Mon-07-May - Sun-23-Sep
+Typical summer week begins Mon-14-May
+Autumn season is Mon-24-Sep - Sun-18-Nov
+Typical autumn week begins Mon-15-Oct
+Winter season is Mon-19-Nov - Mon-31-Dec
+Typical winter week begins Mon-10-Dec
+*help_end
