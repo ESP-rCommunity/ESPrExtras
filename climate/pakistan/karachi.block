@@ -1,0 +1,40 @@
+*item
+*name	KARACHI - PAKISTAN
+*aide	KARACHI - PAKISTAN was sourced from
+*dbfl	
+*avail	OFFLINE
+*winter_s  1  1 18  2  3 12 31 12
+*spring_s 19  2 15  4 15 10  2 12
+*summer_s 16  4 14 10
+*winter_t  8  1 14  1 17 12 23 12
+*spring_t  5  3 11  3 29 10  4 11
+*summer_t  3  9  9  9
+*help_start
+Climate is KARACHI - PAKISTAN
+ Location: 24.90N  7.87W : 2001
+ Month    Minimum  Time          Maximum  Time         Mean
+ Jan      6.1 @ 8h00 Mon-15       29.0 @17h00 Wed-10    18.4
+ Feb     11.2 @ 6h00 Thu-01       34.5 @14h00 Wed-21    21.2
+ Mar     15.0 @ 5h00 Tue-06       39.5 @14h00 Thu-29    25.4
+ Apr     19.0 @ 8h00 Sat-07       37.0 @14h00 Tue-17    28.0
+ May     22.5 @ 5h00 Fri-04       44.0 @13h00 Mon-28    30.7
+ Jun     27.0 @ 5h00 Mon-04       42.0 @13h00 Sun-03    31.4
+ Jul     27.0 @10h00 Mon-16       35.0 @15h00 Thu-05    30.0
+ Aug     25.0 @11h00 Wed-15       34.0 @16h00 Fri-24    29.2
+ Sep     21.0 @ 6h00 Sat-22       34.0 @14h00 Sat-29    28.6
+ Oct     18.0 @ 6h00 Mon-29       39.0 @17h00 Sun-14    28.2
+ Nov     10.0 @ 3h00 Thu-29       35.0 @14h00 Thu-01    23.7
+ Dec      7.0 @ 8h00 Mon-24       30.0 @14h00 Sat-01    19.6
+ Annual   6.1 @ 8h00 Mon-15-Jan   44.0 @13h00 Mon-28-May    26.2
+ ---Seasons & typical periods---
+Winter season is Mon-01-Jan - Sun-18-Feb
+Typical winter week begins Mon-08-Jan
+Spring season is Mon-19-Feb - Sun-15-Apr
+Typical spring week begins Mon-05-Mar
+Summer season is Mon-16-Apr - Sun-14-Oct
+Typical summer week begins Mon-03-Sep
+Autumn season is Mon-15-Oct - Sun-02-Dec
+Typical autumn week begins Mon-29-Oct
+Winter season is Mon-03-Dec - Mon-31-Dec
+Typical winter week begins Mon-17-Dec
+*help_end
