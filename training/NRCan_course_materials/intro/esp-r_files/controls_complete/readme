@@ -1,3 +1,0 @@
-An ideal control profile with setback is defined (0-6 hr: temp=16+-0.1, 6-22 hr:
-temp=22+-0.1; temp=16+-0.1; 22-24 hr: temp=16+-0.1). The results are in file 
-step6/cfg/results. This file contains simulation data for the whole year.
