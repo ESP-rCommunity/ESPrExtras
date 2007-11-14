@@ -1,0 +1,8 @@
+#! /bin/sh
+# Copies completed ESP-r project with completed geometry into
+# user's home folder.
+
+cd /home/knoppix
+cp -r /home/knoppix/hands_on_files/esp-r_files/geometry_complete step1
+cd /home/knoppix/step1/cfg
+esp-r -file house.cfg -s 80,0,0

@@ -1,0 +1,22 @@
+# operations of office defined in: 
+# office.opr
+CORNER OFF        # operation name
+# control(no control of air flow  ), low & high setpoints 
+   0     0.000     0.000
+     1   # no weekday flow periods
+# wkd: start, stop, infil, ventil, source, data
+   0, 24,    0.300    1.000    1    0.000
+     1   # no Saturday flow periods
+# Sat: start, stop, infil, ventil, source, data
+   0, 24,    0.300    1.000    1    0.000
+     1   # no Sunday flow periods 
+# Sun: start, stop, infil, ventil, source, data
+   0, 24,    0.300    1.000    1    0.000
+     2   # no weekday casual gains 
+# wkd: type, start, stop, sens, latent, rad_frac, conv_frac
+    1,   9,  17,    180.0,    100.0, 0.200, 0.800
+    2,   9,  17,    200.0,      0.0, 0.140, 0.000
+     0   # no Saturday casual gains 
+     0   # no Sunday casual gains 
+# Labels for gain types 
+ Occupt Lights Equipt

@@ -1,0 +1,19 @@
+# operations of roof_space defined in: 
+# roof_space.opr
+CEILING VD        # operation name
+# control(no control of air flow  ), low & high setpoints 
+   0     0.000     0.000
+     0   # no weekday flow periods
+     0   # no Saturday flow periods
+     0   # no Sunday flow periods 
+     1   # no weekday casual gains 
+# wkd: type, start, stop, sens, latent, rad_frac, conv_frac
+    2,   9,  17,    800.0,      0.0, 0.510, 0.350
+     1   # no Saturday casual gains 
+# Sat: type, start, stop, sens, latent, rad_frac, conv_frac
+    1,   0,  24,      0.0,      0.0, 0.500, 0.500
+     1   # no Sunday casual gains 
+# Sun: type, start, stop, sens, latent, rad_frac, conv_frac
+    1,   0,  24,      0.0,      0.0, 0.500, 0.500
+# Labels for gain types 
+ Occupt Lights Equipt

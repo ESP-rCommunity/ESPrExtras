@@ -1,0 +1,12 @@
+*connections  for house1
+*Date Mon Sep 15 09:33:31 2003
+      9   # number of connections
+   1   1   0   0   0  #   1  Surf-1 in Main_Floor is External
+   1   2   0   0   0  #   2  Surf-2 in Main_Floor is External
+   1   3   0   0   0  #   3  Surf-3 in Main_Floor is External
+   1   4   0   0   0  #   4  Surf-4 in Main_Floor is External
+   1   5   0   0   0  #   5  Surf-5 in Main_Floor is External
+   1   6   0   0   0  #   6  Surf-6 in Main_Floor is External
+   1   7   4   1   0  #   7  Surf-7 in Main_Floor >|< ground profile 1
+   1   8   0   0   0  #   8  Surf-8 in Main_Floor is External
+   1   9   0   0   0  #   9  Surf-9 in Main_Floor is External
