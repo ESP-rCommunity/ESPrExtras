@@ -44,7 +44,7 @@
   Solar-collecto    84
     0        # Component has   0 control variable(s).
    36
-       2.8650     #   1 Collector area (m2)                                             
+      10.0000     #   1 Collector area (m2)
        1.0000     #   2 Type of efficiency equ. (1=North-American,2=European)           
       0.69400     #   3 Constant coef. of efficiency equ. (-)                           
        4.8500     #   4 Linear coef. of efficiency equ. (W/m2/C)                        
