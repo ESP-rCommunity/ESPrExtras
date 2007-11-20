@@ -1,9 +1,0 @@
-#! /bin/sh
-# Copies the basic exemplars to user's home area then launches
-# prj and opens the 3-zone model with convective heating and ideal
-# control. Used for the first hands-on in the network air flow course.
-
-cd $HOME
-cp -r /usr/esru/esp-r/training/basic airflow3
-cd $HOME/airflow3/cfg
-hot3000 -file bld_basic_af1.cfg -s 80,0,0

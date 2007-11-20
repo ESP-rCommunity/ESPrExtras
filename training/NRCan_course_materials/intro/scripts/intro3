@@ -1,8 +1,0 @@
-#! /bin/sh
-# Copies completed ESP-r project with completed controls info into
-# user's home folder.
-
-cd /home/knoppix
-cp -r /home/knoppix/hands_on_files/esp-r_files/controls_complete step3
-cd /home/knoppix/step3/cfg
-esp-r -file house.cfg -s 80,0,0

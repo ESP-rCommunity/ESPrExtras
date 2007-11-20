@@ -1,8 +1,0 @@
-#! /bin/sh
-# Copies completed ESP-r project with completed air flow network into
-# user's home folder.
-
-cd /home/knoppix
-cp -r /home/knoppix/hands_on_files/esp-r_files/airflow_network_complete step4
-cd /home/knoppix/step4/cfg
-esp-r -file house.cfg -s 80,0,0

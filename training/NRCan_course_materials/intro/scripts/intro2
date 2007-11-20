@@ -1,8 +1,0 @@
-#! /bin/sh
-# Copies completed ESP-r project with completed boundary condition info into
-# user's home folder.
-
-cd /home/knoppix
-cp -r /home/knoppix/hands_on_files/esp-r_files/BCs_complete step2
-cd /home/knoppix/step2/cfg
-esp-r -file house.cfg -s 80,0,0
