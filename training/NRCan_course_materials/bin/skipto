@@ -1,0 +1,154 @@
+#!/bin/bash
+
+REPOPATH="<path_to_here>/NRCan_course_materials"
+
+arg=$1
+err=0
+if [ "$arg" == "" ]; then
+
+  err=1
+
+fi
+
+case "$arg" in
+  intro1) echo "Skipping to introductiory course: databases complete"
+          group="intro"
+          step="01_dbs_complete"
+          filename="Demonstration.cfg"
+          ;;
+  intro2) echo "Skipping to introductiory course: opaque envelope complete"
+          group="intro"
+          step="02_opaque_complete"
+          filename="Demonstration.cfg"
+          ;;
+  intro3) echo "Skipping to introductiory course: windows complete"
+          group="intro"
+          step="03_windows_complete"
+          filename="Demonstration.cfg"
+          ;;
+  intro4) echo "Skipping to introductiory course: connections complete"
+          group="intro"
+          step="04_cnn_complete"
+          filename="Demonstration.cfg"
+          ;;
+  intro5) echo "Skipping to introductiory course: operations complete"
+          group="intro"
+          step="05_opr_complete"
+          filename="Demonstration.cfg"
+          ;;
+  intro6) echo "Skipping to introductiory course: controls complete"
+          group="intro"
+          step="06_ctl_complete"
+          filename="Demonstration.cfg"
+          ;;
+  airflow0) echo "Skipping to air-flow course: starting point"
+            group="air_flow"
+            step="afn_00_start"
+            filename="bld_basic.cfg"
+            ;;
+  airflow1) echo "Skipping to air-flow course: nodes done"
+            group="air_flow"
+            step="afn_01_nodes_done"
+            filename="bld_basic.cfg"
+            ;;          
+  airflow2) echo "Skipping to air-flow course: components done"
+            group="air_flow"
+            step="afn_02_comps_done"
+            filename="bld_basic.cfg"
+            ;;
+  airflow3) echo "Skipping to air-flow course: connections done"
+            group="air_flow"
+            step="afn_03_conn_done"
+            filename="bld_basic.cfg"
+            ;;
+  airflow4) echo "Skipping to air-flow course: controls done"
+            group="air_flow"
+            step="afn_04_nvent_ctl_done"
+            filename="bld_basic.cfg"
+            ;;
+  plant0) echo "Skipping to plant modelling course: starting point"
+            group="plant_network"
+            step="pln_00_start"
+            filename="bld_basic.cfg"
+            ;;
+  plant1) echo "Skipping to plant modelling course: components done"
+            group="plant_network"
+            step="pln_01_components_done"
+            filename="bld_basic.cfg"
+            ;;          
+  plant2) echo "Skipping to plant modelling course: connections done"
+            group="plant_network"
+            step="pln_02_connections_done"
+            filename="bld_basic.cfg"
+            ;;
+  plant3) echo "Skipping to plant modelling course: containments done"
+            group="plant_network"
+            step="pln_03_containments_done"
+            filename="bld_basic.cfg"
+            ;;
+  plant4) echo "Skipping to plant modelling course: controls done"
+            group="plant_network"
+            step="pln_04_ctls_done"
+            filename="bld_basic.cfg"
+            ;;
+  elec0) echo "Skipping to elec modelling course: starting point"
+            group="elec_network"
+            step="eln_00_start"
+            filename="bld_basic.cfg"
+            ;;
+  elec1) echo "Skipping to elec modelling course: roof done"
+            group="elec_network"
+            step="eln_01_roof_done"
+            filename="bld_basic.cfg"
+            ;;          
+  elec2) echo "Skipping to elec modelling course: plant-components done"
+            group="elec_network"
+            step="eln_02_plncomp_done"
+            filename="bld_basic.cfg"
+            ;;
+  elec3) echo "Skipping to elec modelling course: complete"
+            group="elec_network"
+            step="eln_03_complete"
+            filename="bld_basic.cfg"
+            ;;
+  *)      err=1
+          ;;
+esac
+
+if [ "$err" == "1" ]; then
+
+  echo " skipto: ERROR!"
+  echo " Arguement \"$arg\" not understood. Arguement must be one of"
+  echo " the following:"
+  echo " " 
+  echo "  - intro1 "
+  echo "  - intro2 "
+  echo "  - intro3 "
+  echo "  - intro4 "
+  echo "  - intro5 "
+  echo "  - intro6 "
+  echo " "
+  echo "  - airflow0"
+  echo "  - airflow1"
+  echo "  - airflow2"
+  echo "  - airflow3"
+  echo "  - airflow4"
+  echo " " 
+  echo "  - plant0"
+  echo "  - plant1"
+  echo "  - plant2"
+  echo "  - plant3"
+  echo "  - plant4"
+  echo "  "
+  echo "  - elec0"
+  echo "  - elec1"
+  echo "  - elec2"
+  echo "  - elec3"
+
+else
+
+  cp -fr "$REPOPATH/$group/esp-r_files/$step/" ./
+  cd ./$step/cfg
+  prj -file $filename &
+
+fi
