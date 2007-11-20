@@ -1,5 +1,5 @@
 # composite construction db defined in ../dbs/Demonstration.constrdb
-# based on materials db /home/aferguso/esp-r/databases/constr.db2
+# based on materials db /usr/esru/esp-r/databases/constr.db2
     4     # no of composites 
 # layers  description   optics name   symmetry tag
     4    Exterior_wal  OPAQ  OPAQUE        NONSYMMETRIC  
