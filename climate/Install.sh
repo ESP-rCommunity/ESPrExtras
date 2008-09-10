@@ -23,7 +23,7 @@ helptext="
 
    -d, --directory <PATH>: Copy the converted binary
        weather files to <PATH>. By default, files are
-       installed in ${Target}
+       installed in $Target}
 
    -l, --list: List all countries for which weather
        data is available.
@@ -51,7 +51,9 @@ Target="/usr/esru/esp-r/climate"
 # Pointer to clm
 CLM=clm
 # Collect list of countries for which data is available.
-supported_countries=`ls -d clm-dat* | grep -v "Install.*" | sed "s/clm-dat_//g" | sed -e :a -e '$!N; s/\n/ /; ta' `
+supported_countries=`ls -d clm-dat* | grep -v "Install.*" | sed "s/clm-dat_//g"  `
+list_for_output=$supported_countries
+supported_countries=`echo $supported_countries | sed -e :a -e '$!N; s/\n/ /; ta'`
 supported_countries=" $supported_countries "
 
 # 
@@ -102,9 +104,7 @@ if [ "$install_all_counties" == "yes" ]; then
   install_these_countries="$supported_countries"
 fi
 
-if [ "$install_these_countries" == "" ] && [ "$help" != "yes" ]; then
-  exit
-fi
+
 
 #---------------------------------------------------------------------
 # Possibly report help text
@@ -114,6 +114,34 @@ if [ "$help" == "yes" ]; then
   exit
 fi
 
+#---------------------------------------------------------------------
+# Possibly list countries supported
+#---------------------------------------------------------------------
+if [ "$listcountries" == "yes" ]; then
+  intro="
+ Data from the following countries are available. Weather
+ files for all countries can be installed by specifying
+ 'all' on the command line.
+"
+  printf "$intro\n"
+
+  ls -d clm-dat* | grep -v "Install.*" | sed "s/clm-dat_//g" | column 
+  
+  foot="
+ All weather files can be installed by specifying 'all'.
+"
+  printf "$foot\n"
+
+
+fi
+
+
+#---------------------------------------------------------------------
+# Quit if no countries requested.
+#---------------------------------------------------------------------
+if [ "$install_these_countries" == "" ]; then
+  exit
+fi
 
 printf " \n Installing climate files for:$install_these_countries in $Target\n\n"
 
@@ -142,7 +170,7 @@ do
   asciifiles=`ls -1 clm-dat_$country/*.a`
   asciifiles="$asciifiles end_of_files"
 
-  # co
+  
   while [ "$asciifiles" != "end_of_files" ];
   do
     # Extract leading file from list
