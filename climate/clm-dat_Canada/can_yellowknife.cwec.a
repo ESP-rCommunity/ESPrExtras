@@ -7,7 +7,7 @@
 # col 4: Prevailing wind speed           (Tenths m/s)
 # col 5: Wind direction     (clockwise deg from north)
 # col 6: Relative humidity               (Percent)
-Yellowknife NWT                 # site name
+Yellowknife, NT                 # site name
   1997   62.47    9.45   0      # year, latitude, long diff, rad flag
      1   365                   # period (julian days)
 * day 01 month 01

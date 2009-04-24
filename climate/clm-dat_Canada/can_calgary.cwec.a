@@ -7,7 +7,7 @@
 # col 4: Prevailing wind speed           (Tenths m/s)
 # col 5: Wind direction     (clockwise deg from north)
 # col 6: Relative humidity               (Percent)
-Calgary Alberta                 # site name
+Calgary, AB                     # site name
   1997   51.12   -0.98   0      # year, latitude, long diff, rad flag
      1   365                   # period (julian days)
 * day 01 month 01

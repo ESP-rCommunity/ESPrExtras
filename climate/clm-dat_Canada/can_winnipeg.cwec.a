@@ -7,7 +7,7 @@
 # col 4: Prevailing wind speed           (Tenths m/s)
 # col 5: Wind direction     (clockwise deg from north)
 # col 6: Relative humidity               (Percent)
-Winnipeg Manitoba               # site name
+Winnipeg, MB                    # site name
   1997   49.90    7.23   0      # year, latitude, long diff, rad flag
      1   365                   # period (julian days)
 * day 01 month 01
