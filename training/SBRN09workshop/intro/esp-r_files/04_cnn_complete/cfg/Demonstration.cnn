@@ -1,0 +1,19 @@
+*connections  for Demonstration
+*Date Wed Nov 14 15:29:16 2007
+     16   # number of connections
+   1   1   0   0   0  #    1 Wall-1 in Main_Floor is External
+   1   2   0   0   0  #    2 Wall-2 in Main_Floor is External
+   1   3   0   0   0  #    3 Wall-3 in Main_Floor is External
+   1   4   0   0   0  #    4 Wall-4 in Main_Floor is External
+   1   5   0   0   0  #    5 Wall-5 in Main_Floor is External
+   1   6   0   0   0  #    6 Wall-6 in Main_Floor is External
+   1   7   0   0   0  #    7 Wall-7 in Main_Floor is External
+   1   8   0   0   0  #    8 Top-8 in Main_Floor is External
+   1   9   4   1   0  #    9 Base-9 in Main_Floor >|< ground profile 1
+   1  10   0   0   0  #   10 Window-1 in Main_Floor is External
+   1  11   0   0   0  #   11 Window-2 in Main_Floor is External
+   1  12   0   0   0  #   12 Window-3 in Main_Floor is External
+   1  13   0   0   0  #   13 Window-4 in Main_Floor is External
+   1  14   0   0   0  #   14 Window-5 in Main_Floor is External
+   1  15   0   0   0  #   15 Window-6 in Main_Floor is External
+   1  16   0   0   0  #   16 Window-7 in Main_Floor is External

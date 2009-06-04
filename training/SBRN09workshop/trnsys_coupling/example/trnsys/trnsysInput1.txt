@@ -1,0 +1,128 @@
+# This is the input file for test 6-5 from Dadier report
+#
+ TRNSYS-Type,   60
+ Component-Type,   0
+ Nodes-Number,   2
+ Node-Connection,   1, 1    #Nodes-Number integers
+ Variable-Type,     20, 20   #Nodes-Number integers
+#
+#
+ Parameters,     32
+  1,	User-specified inlet positions,           Y,     2
+  2,	Tank volume,	                          Y,     0.324
+  3,	Tank height,	                          Y,     1.8
+  4,	Tank perimeter,                           Y,     -1
+  5,	Height of flow inlet 1,	                  Y,     1.8
+  6,	Height of flow outlet 1,                  Y,     0
+  7,	Height of flow inlet 2,	                  Y,     0
+  8,	Height of flow outlet 2,                  Y,     1.8
+  9,	Fluid specific heat,                      Y,     4.2
+ 10,	Fluid density,                            Y,  1000
+ 11,	Tank loss coefficient,                    Y,     0.1
+ 12,	Fluid thermal conductivity,               Y,     0.58
+ 13,	Destratification conductivity,            Y,     0.0
+ 14,	Boiling temperature,                      Y,   100
+ 15,	Auxiliary heater mode,                    Y,     2
+ 16,	Height of 1st aux. heater,                Y,     1.0
+ 17,	Height of 1st thermostat,                 Y,     1.25
+ 18,	Set point temperature for element 1,      Y,    55.0
+ 19,	Deadband for heating element 1,           Y,     5.0
+ 20,	Maximum heating rate of element 1,        Y,     0
+ 21,	Height of heating element 2,              Y,     1
+ 22,	Height of thermostat 2,                   Y,     1
+ 23,	Set point temperature for element 2,      Y,    55.0
+ 24,	Deadband for heating element 2,           Y,     5.0
+ 25,	Maximum heating rate of element 2,        Y,     0
+ 26,	Overall loss coefficient for gas flue,    Y,     0.0
+ 27,	Flue temperature,                         Y,    20.0
+ 28,	Fraction of critical timestep,            Y,     6
+ 29,	Gas heater?,                              Y,     0
+ 30,	Number of internal heat exchangers,       Y,     0
+ 31,	Node heights supplied,                    Y,     0
+ 32,	Additional loss coeff's supplied,         Y,     0
+#
+#
+ Inputs,   9
+# ID       description                     input    value  node   con.    unitCode
+#                                          type
+  1,	Flow rate at inlet 1,                2,              1,     1,     MF1
+  2,	Flow rate at outlet 1,               2,              1,     1,     MF1
+  3,	Flow rate at inlet 2,                2,              2,     1,     MF1 
+  4,	Flow rate at outlet 2,               0,      -2
+  5,	Temperature at inlet 1,              1,              1,     1,     TE1
+  6,	Temperature at inlet 2,              1,              2,     1,     TE1
+  7,	Environment temperature,            -1,                            TE1
+  8,	Control signal for element 1,        0,       0
+  9,	Control signal for element 2,        0,       0
+#
+#
+ Derivatives,  50,   1       # esp-r initialize
+  1,      30
+  2,      30
+  3,      30
+  4,      30
+  5,      30
+  6,      30
+  7,      30
+  8,      30
+  9,      30
+  10,      30
+  11,      30
+  12,      30
+  13,      30
+  14,      30
+  15,      30
+  16,      30
+  17,      30
+  18,      30
+  19,      30
+  20,      30
+  21,      30
+  22,      30
+  23,      30
+  24,      30
+  25,      30
+  26,      30
+  27,      30
+  28,      30
+  29,      30
+  30,      30
+  31,      30
+  32,      30
+  33,      30
+  34,      30
+  35,      30
+  36,      30
+  37,      30
+  38,      30
+  39,      30
+  40,      30
+  41,      30
+  42,      30
+  43,      30
+  44,      30
+  45,      30
+  46,      30
+  47,      30
+  48,      30
+  49,      30
+  50,      30
+#
+#
+#
+ Outputs   2
+# ID      temperature          1st phase mass          2nd phase mass
+  1,      5,     TE1,            2,    MF1,               0,    MF1
+  2,      6,     TE1,            4,    MF1,               0,    MF2
+#
+#
+#
+ Additional-Outputs  4
+  1,  Auxiliary heating rate,    12,   PW1
+  2,  Average temp,              17,   TE1
+  3,  Top temp,                  22,   TE1
+  4,  Bottom temp,               23,   TE1
+#
+#
+#
+#
