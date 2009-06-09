@@ -122,6 +122,7 @@ esac
 
 if [ "$err" == "1" ]; then
 
+  echo $REPOPATH
   echo " skipto: ERROR!"
   echo " Arguement \"$arg\" not understood. Arguement must be one of"
   echo " the following:"
@@ -153,7 +154,6 @@ if [ "$err" == "1" ]; then
 
 else
 
-  cp -fr "$REPOPATH/$group/esp-r_files/$step/" ./
   cd ./$step/cfg
   prj -file $filename &
 
