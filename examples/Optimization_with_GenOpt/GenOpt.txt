@@ -1,0 +1,9 @@
+﻿FILE QUARANTINED
+----------------
+
+The Anti Virus software Antigen found files.zip->GenOpt.cmd and removed the file. Files of type FILE FILTER= unnamed: *.cmd frequently carry viruses and therefore the file has been removed from this message. If the message originated from within NRCan, the sender has been notified that the file was blocked and they have instructions on how they may get the file sent to the intended recipient. If the message originated from outside of NRCan, the sender has been instructed to contact the NRCan recipient for instructions on how the file may be delivered. 
+
+FICHIER MIS EN QUARANTAINE
+----------------
+
+Le logiciel antivirus Antigen a trouvé et supprimé le fichier files.zip->GenOpt.cmd. Puisque les fichiers du type FILE FILTER= unnamed: *.cmd sont souvent porteurs de virus, celui-ci a été retiré du message. Si le message a été envoyé par un employé de RNCan, son expéditeur a été averti que le fichier a été bloqué et dispose d'instructions qui lui permettront de transmettre le fichier à son destinataire. Si le message provient de l'extérieur de RNCan, on a demandé à l'expéditeur de communiquer avec son destinataire de RNCan pour savoir comment il peut lui transmettre le fichier.
