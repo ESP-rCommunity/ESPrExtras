@@ -1,0 +1,27 @@
+# composite construction db defined in ../dbs/Demonstration.constrdb
+# based on materials db /usr/esru/esp-r/databases/constr.db2
+    4     # no of composites 
+# layers  description   optics name   symmetry tag
+    4    Exterior_wal  OPAQ  OPAQUE        NONSYMMETRIC  
+# mat ref thickness (m) mat descr & air gap R
+    1    0.1000  Paviour brick
+  214    0.0250  EPS
+  281    0.0890  Glass Fibre Quilt
+  104    0.0130  Gypsum plaster
+# layers  description   optics name   symmetry tag
+    3    Floor         OPAQ  OPAQUE        NONSYMMETRIC  
+# mat ref thickness (m) mat descr & air gap R
+  214    0.0380  EPS
+   21    0.1000  Light mix concrete
+  225    0.0100  Synthetic carpet
+# layers  description   optics name   symmetry tag
+    2    Ceiling       OPAQ  OPAQUE        NONSYMMETRIC  
+# mat ref thickness (m) mat descr & air gap R
+  281    0.2000  Glass Fibre Quilt
+  104    0.0130  Gypsum plaster
+# layers  description   optics name   symmetry tag
+    3    Window        TRAN  SC_8985_04nb  SYMMETRIC     
+# mat ref thickness (m) mat descr & air gap R
+  243    0.0040  4mm clear float
+    0    0.0127  air  0.170 0.170 0.170
+  243    0.0040  4mm clear float

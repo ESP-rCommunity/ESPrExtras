@@ -1,0 +1,74 @@
+#!/bin/bash
+
+REPOPATH="<path_to_here>/co-simulator_ESP-r"
+
+arg=$1
+err=0
+if [ "$arg" == "" ]; then
+
+  err=1
+
+fi
+
+case "$arg" in
+  intro1) echo "Skipping to introductiory course: databases complete"
+          group="intro"
+          step="01_dbs_complete"
+          filename="Demonstration.cfg"
+          ;;
+  intro2) echo "Skipping to introductiory course: opaque envelope complete"
+          group="intro"
+          step="02_opaque_complete"
+          filename="Demonstration.cfg"
+          ;;
+  intro3) echo "Skipping to introductiory course: windows complete"
+          group="intro"
+          step="03_windows_complete"
+          filename="Demonstration.cfg"
+          ;;
+  intro4) echo "Skipping to introductiory course: connections complete"
+          group="intro"
+          step="04_cnn_complete"
+          filename="Demonstration.cfg"
+          ;;
+  intro5) echo "Skipping to introductiory course: operations complete"
+          group="intro"
+          step="05_opr_complete"
+          filename="Demonstration.cfg"
+          ;;
+  intro6) echo "Skipping to introductiory course: controls complete"
+          group="intro"
+          step="06_ctl_complete"
+          filename="Demonstration.cfg"
+          ;;
+  intro7) echo "Skipping to introductiory course: obstructions complete"
+          group="intro"
+          step="07_obs_complete"
+          filename="Demonstration.cfg"
+          ;;          
+  *)      err=1
+          ;;
+esac
+
+if [ "$err" == "1" ]; then
+
+  echo $REPOPATH
+  echo " skipto: ERROR!"
+  echo " Arguement \"$arg\" not understood. Arguement must be one of"
+  echo " the following:"
+  echo " " 
+  echo "  - intro1 "
+  echo "  - intro2 "
+  echo "  - intro3 "
+  echo "  - intro4 "
+  echo "  - intro5 "
+  echo "  - intro6 "
+  echo "  - intro7 "
+  echo " "
+
+else
+
+  cd ./$step/cfg
+  prj -file $filename &
+
+fi

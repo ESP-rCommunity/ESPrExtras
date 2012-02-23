@@ -1,0 +1,12 @@
+# site obstruction file defined in ../zones/Main_Floor.obs
+# associated with zone geometry file ../zones/Main_Floor.geo
+ 0. 0.   # dummy values for site position
+    5    # no obstruction blocks
+# origin X Y Z, width, depth, height, rot angle, descr, material
+-10.000 -10.000 0.000 20.000 8.000 8.000 0.000 First NONE # block 1
+-0.505 8.510 0.490 2.020 0.500 0.010 -90.000 Windows Exterior_wal # block 2
+-0.505 8.510 2.000 2.020 0.500 0.010 -90.000 Windowh Exterior_wal # block 3
+-0.505 8.510 0.490 0.010 0.500 1.520 -90.000 Windowl Exterior_wal # block 4
+-0.505 6.500 0.490 0.010 0.500 1.520 -90.000 Windowr Exterior_wal # block 5
+# grid opq X opq Z win X win Z
+    20    20    10    10
