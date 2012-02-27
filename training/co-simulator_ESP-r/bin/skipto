@@ -11,41 +11,66 @@ if [ "$arg" == "" ]; then
 fi
 
 case "$arg" in
-  intro1) echo "Skipping to introductiory course: databases complete"
+  intro1) echo "Skipping to introductory course: databases complete"
           group="intro"
           step="01_dbs_complete"
           filename="Demonstration.cfg"
           ;;
-  intro2) echo "Skipping to introductiory course: opaque envelope complete"
+  intro2) echo "Skipping to introductory course: opaque envelope complete"
           group="intro"
           step="02_opaque_complete"
           filename="Demonstration.cfg"
           ;;
-  intro3) echo "Skipping to introductiory course: windows complete"
+  intro3) echo "Skipping to introductory course: windows complete"
           group="intro"
           step="03_windows_complete"
           filename="Demonstration.cfg"
           ;;
-  intro4) echo "Skipping to introductiory course: connections complete"
+  intro4) echo "Skipping to introductory course: connections complete"
           group="intro"
           step="04_cnn_complete"
           filename="Demonstration.cfg"
           ;;
-  intro5) echo "Skipping to introductiory course: operations complete"
+  intro5) echo "Skipping to introductory course: operations complete"
           group="intro"
           step="05_opr_complete"
           filename="Demonstration.cfg"
           ;;
-  intro6) echo "Skipping to introductiory course: controls complete"
+  intro6) echo "Skipping to introductory course: controls complete"
           group="intro"
           step="06_ctl_complete"
           filename="Demonstration.cfg"
           ;;
-  intro7) echo "Skipping to introductiory course: obstructions complete"
+  intro7) echo "Skipping to introductory course: obstructions complete"
           group="intro"
           step="07_obs_complete"
           filename="Demonstration.cfg"
           ;;          
+  plant0) echo "Skipping to plant modelling course: starting point"
+            group="plant_network"
+            step="pln_00_start"
+            filename="bld_basic.cfg"
+            ;;
+  plant1) echo "Skipping to plant modelling course: components done"
+            group="plant_network"
+            step="pln_01_components_done"
+            filename="bld_basic.cfg"
+            ;;          
+  plant2) echo "Skipping to plant modelling course: connections done"
+            group="plant_network"
+            step="pln_02_connections_done"
+            filename="bld_basic.cfg"
+            ;;
+  plant3) echo "Skipping to plant modelling course: containments done"
+            group="plant_network"
+            step="pln_03_containments_done"
+            filename="bld_basic.cfg"
+            ;;
+  plant4) echo "Skipping to plant modelling course: controls done"
+            group="plant_network"
+            step="pln_04_ctls_done"
+            filename="bld_basic.cfg"
+            ;;   
   *)      err=1
           ;;
 esac
@@ -64,6 +89,12 @@ if [ "$err" == "1" ]; then
   echo "  - intro5 "
   echo "  - intro6 "
   echo "  - intro7 "
+  echo " " 
+  echo "  - plant0"
+  echo "  - plant1"
+  echo "  - plant2"
+  echo "  - plant3"
+  echo "  - plant4"
   echo " "
 
 else
