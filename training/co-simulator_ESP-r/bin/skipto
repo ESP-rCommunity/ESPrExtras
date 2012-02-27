@@ -1,6 +1,6 @@
 #!/bin/bash
 
-REPOPATH="<path_to_here>/co-simulator_ESP-r"
+REPOPATH="/home/Course-Admin/training/co-simulator_ESP-r"
 
 arg=$1
 err=0
@@ -67,7 +67,9 @@ if [ "$err" == "1" ]; then
   echo " "
 
 else
-
+  $my_path=`pwd`
+  echo " About to copy: $REPOPATH/$group/esp-r_files/$step/ to ./ ($my_path)"
+  cp -fr "$REPOPATH/$group/esp-r_files/$step/" ./
   cd ./$step/cfg
   prj -file $filename &
 
