@@ -71,6 +71,26 @@ case "$arg" in
             step="pln_04_ctls_done"
             filename="bld_basic.cfg"
             ;;   
+  elec0) echo "Skipping to elec modelling course: starting point"
+            group="elec_network"
+            step="eln_00_start"
+            filename="bld_basic.cfg"
+            ;;
+  elec1) echo "Skipping to elec modelling course: roof done"
+            group="elec_network"
+            step="eln_01_roof_done"
+            filename="bld_basic.cfg"
+            ;;          
+  elec2) echo "Skipping to elec modelling course: plant-components done"
+            group="elec_network"
+            step="eln_02_plncomp_done"
+            filename="bld_basic.cfg"
+            ;;
+  elec3) echo "Skipping to elec modelling course: complete"
+            group="elec_network"
+            step="eln_03_complete"
+            filename="bld_basic.cfg"
+            ;;
   *)      err=1
           ;;
 esac
@@ -96,6 +116,10 @@ if [ "$err" == "1" ]; then
   echo "  - plant3"
   echo "  - plant4"
   echo " "
+  echo "  - elec0"
+  echo "  - elec1"
+  echo "  - elec2"
+  echo "  - elec3"
 
 else
   $my_path=`pwd`
